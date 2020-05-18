@@ -11,8 +11,18 @@ collections:
     folder: content/recipes
     create: true
     fields:
-      - { name: path, label: Path }
-      - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
       - { name: description, label: Description }
-      - { name: body, label: Body, widget: markdown }
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: tags, label: Tags, widget: list }
+      - { name: featured_image, label: Featured Image, widget: image }
+      - {
+          name: ingredients,
+          label: Ingredients,
+          widget: list,
+          collapsed: false,
+          field: { name: ingredient, label: Ingredient, widget: string },
+        }
+      - { name: instructions, label: Instructions, widget: markdown }
+      - { name: story, label: Story, widget: markdown }
