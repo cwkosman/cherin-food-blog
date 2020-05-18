@@ -1,10 +1,9 @@
 module.exports = {
   siteMetadata: {
-    // edit below
     title: `Title TBD`,
     author: `Erin Quon & Chuck Kosman`,
     description: `A no nonsense food blog`,
-    siteUrl: `https://cherin-food-blog.netlify.com/`,
+    siteUrl: `https://cherin-food-blog.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
@@ -17,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
+        path: `${__dirname}/content/recipes`,
+        name: `recipes`,
       },
     },
     {
@@ -60,8 +59,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        // edit below
-        // trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-166802663-1`,
       },
     },
     {
