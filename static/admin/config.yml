@@ -15,7 +15,7 @@ collections:
       - { name: description, label: Description }
       - { name: date, label: Date, widget: date }
       - { name: tags, label: Tags, widget: list }
-      - { name: featured_image, label: Featured Image, widget: image }
+      - { name: featuredImage, label: Featured Image, widget: image }
       - {
           name: ingredients,
           label: Ingredients,

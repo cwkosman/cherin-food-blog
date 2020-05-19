@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import Img from "gatsby-image"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -9,6 +10,7 @@ import { rhythm, scale } from "../utils/typography"
 class RecipePostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
+    const { featuredImage } = post.frontmatter
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
 
@@ -29,6 +31,7 @@ class RecipePostTemplate extends React.Component {
         >
           {post.frontmatter.date}
         </p>
+        <Img fixed={featuredImage.childImageSharp.fixed} />
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
@@ -86,6 +89,13 @@ export const pageQuery = graphql`
         description
         tags
         ingredients
+        featuredImage {
+          childImageSharp {
+            fixed(width: 125, height: 125) {
+              ...GatsbyImageSharpFixed
+            }
+          }
+        }
       }
     }
   }

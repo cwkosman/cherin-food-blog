@@ -5,8 +5,8 @@ date: 2020-05-18T23:17:56.238Z
 tags:
   - Breakfast
   - Pizza
-featured_image: /assets/20190916-wok-skills-steaming-52.jpg
-ingredients:
+featuredImage: /assets/20190916-wok-skills-steaming-52.jpg
+ingredients:  
   - 1 cup flour
   - 1 cup olive oil
 ---
