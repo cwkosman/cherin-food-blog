@@ -1,14 +1,14 @@
 ---
-ingredients:
-  - 1 cup flour
-  - 1 cup olive oil
 title: Test Post
 description: Test Post Desc
 date: 2020-05-18T23:17:56.238Z
 tags:
   - Breakfast
   - Pizza
-featured_image: /assets/test-image.jpeg
+featured_image: /assets/20190916-wok-skills-steaming-52.jpg
+ingredients:
+  - 1 cup flour
+  - 1 cup olive oil
 ---
 1. Mix together stuff
 2. ????
