@@ -7,8 +7,8 @@ module.exports = {
   },
   // The order of plugins matters a lot for NetlifyCMS images! See https://github.com/gatsbyjs/gatsby/issues/13469
   plugins: [
-    `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -16,7 +16,9 @@ module.exports = {
           `gatsby-remark-relative-images`,
           {
             resolve: `gatsby-remark-images`,
-            options: {},
+            options: {
+              maxWidth: 800,
+            },
           },
         ],
       },
@@ -26,13 +28,6 @@ module.exports = {
       options: {
         path: `${__dirname}/static/assets`,
         name: "images",
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/assets`,
-        name: `assets`,
       },
     },
     {
@@ -58,7 +53,7 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `static/gatsby-icon.png`,
       },
     },
     `gatsby-plugin-netlify-cms`,

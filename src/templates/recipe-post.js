@@ -2,7 +2,6 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Img from "gatsby-image"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
@@ -32,13 +31,23 @@ class RecipePostTemplate extends React.Component {
           {post.frontmatter.date}
         </p>
         <Img fixed={featuredImage.childImageSharp.fixed} />
+        <p>{post.frontmatter.description}</p>
+        <ul>
+          {post.frontmatter.tags.map(tag => (
+            <li key={tag}>{tag}</li>
+          ))}
+        </ul>
+        <ul>
+          {post.frontmatter.ingredients.map(ingredient => (
+            <li key={ingredient}>{ingredient}</li>
+          ))}
+        </ul>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
             marginBottom: rhythm(1),
           }}
         />
-        <Bio />
 
         <ul
           style={{
