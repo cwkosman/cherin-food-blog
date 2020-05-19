@@ -6,7 +6,7 @@ tags:
   - Breakfast
   - Pizza
 featuredImage: /assets/20190916-wok-skills-steaming-52.jpg
-ingredients:  
+ingredients:
   - 1 cup flour
   - 1 cup olive oil
 ---
@@ -15,3 +15,5 @@ ingredients:
 3. Profit
 
 Heartwarming story goes here
+
+![Pizza Alt](/assets/test-image.jpeg "Pizza Title")
