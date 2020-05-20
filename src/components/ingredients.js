@@ -8,12 +8,13 @@
 import React from "react"
 import styled from "styled-components"
 
-import { rhythm } from "../utils/typography"
+import { rhythm, scale } from "../utils/typography"
 import colours from "../utils/colour"
 
 const IngredientsWrapper = styled.div`
   background-color: ${colours.mutedPrimary};
   padding: ${rhythm(2)};
+  margin-bottom: ${rhythm(1)};
 `
 
 const IngredientList = styled.ul`
@@ -31,7 +32,11 @@ const Ingredient = styled.li`
 function Ingredients(props) {
   const ingredientsList = props.components.map(({ component }) => (
     <React.Fragment key={component.componentTitle}>
-      {props.components.length > 1 ? <h2>{component.componentTitle}</h2> : null}
+      {props.components.length > 1 ? (
+        <h2 style={{ marginBottom: rhythm(1 / 2), ...scale(1 / 3) }}>
+          {component.componentTitle}
+        </h2>
+      ) : null}
       <IngredientList>
         {component.componentIngredientObjects.map(({ ingredientObject }) => (
           <Ingredient key={ingredientObject.ingredientDisplay}>
