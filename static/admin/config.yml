@@ -16,11 +16,30 @@ collections:
       - { name: date, label: Date, widget: date }
       - { name: tags, label: Tags, widget: list }
       - { name: featuredImage, label: Featured Image, widget: image }
-      - {
-          name: ingredients,
-          label: Ingredients,
-          widget: list,
-          collapsed: false,
-          field: { name: ingredient, label: Ingredient, widget: string },
-        }
+      - label: Components
+        name: components
+        widget: list
+        fields:
+          - name: component
+            label: Component
+            widget: object
+            fields:
+              - name: componentTitle
+                label: Component Title
+                widget: string
+                default: Component Title
+              - name: componentIngredientObjects
+                label: Component Ingredients
+                widget: list
+                fields:
+                  - name: ingredientObject
+                    label: Ingredient
+                    widget: object
+                    fields:
+                      - name: ingredientMachineName
+                        label: Ingredient name
+                        widget: string
+                      - name: ingredientDisplay
+                        label: ingredient Display
+                        widget: string
       - { name: body, label: Body, widget: markdown }
