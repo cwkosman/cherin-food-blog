@@ -4,12 +4,13 @@ import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Ingredients from "../components/ingredients"
 import { rhythm, scale } from "../utils/typography"
 
 class RecipePostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
-    const { featuredImage } = post.frontmatter
+    const { featuredImage, components } = post.frontmatter
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
 
@@ -37,11 +38,7 @@ class RecipePostTemplate extends React.Component {
             <li key={tag}>{tag}</li>
           ))}
         </ul>
-        <ul>
-          {post.frontmatter.ingredients.map(ingredient => (
-            <li key={ingredient}>{ingredient}</li>
-          ))}
-        </ul>
+        <Ingredients components={components} />
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
@@ -97,7 +94,16 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         tags
-        ingredients
+        components {
+          component {
+            componentIngredientObjects {
+              ingredientObject {
+                ingredientDisplay
+                ingredientMachineName
+              }
+            }
+          }
+        }
         featuredImage {
           childImageSharp {
             fixed(width: 125, height: 125) {

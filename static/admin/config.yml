@@ -27,7 +27,7 @@ collections:
               - name: componentTitle
                 label: Component Title
                 widget: string
-                default: Component Title
+                default: Default
               - name: componentIngredientObjects
                 label: Component Ingredients
                 widget: list
