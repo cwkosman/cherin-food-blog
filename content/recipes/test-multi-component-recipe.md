@@ -4,7 +4,7 @@ description: Test
 date: 2020-05-20T01:58:10.594Z
 tags:
   - breakfast
-featuredImage: assets/20190916-wok-skills-steaming-52.jpg
+featuredImage: /assets/20190916-wok-skills-steaming-52.jpg
 components:
   - component:
       componentTitle: Gnocchi
