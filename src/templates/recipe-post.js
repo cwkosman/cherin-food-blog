@@ -96,6 +96,7 @@ export const pageQuery = graphql`
         tags
         components {
           component {
+            componentTitle
             componentIngredientObjects {
               ingredientObject {
                 ingredientDisplay

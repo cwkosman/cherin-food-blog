@@ -18,10 +18,11 @@ function Ingredients(props) {
     padding: 10px 25px;
     letter-spacing: 2px;
   `
+  console.log(props.components)
 
   const ingredientsList = props.components.map(({ component }) => (
-    <>
-      {props.components.length > 1 ? <h2>{component.title}</h2> : null}
+    <React.Fragment key={component.componentTitle}>
+      {props.components.length > 1 ? <h2>{component.componentTitle}</h2> : null}
       <ul>
         {component.componentIngredientObjects.map(({ ingredientObject }) => (
           <li key={ingredientObject.ingredientDisplay}>
@@ -29,7 +30,7 @@ function Ingredients(props) {
           </li>
         ))}
       </ul>
-    </>
+    </React.Fragment>
   ))
 
   return <IngredientsWrapper>{ingredientsList}</IngredientsWrapper>
