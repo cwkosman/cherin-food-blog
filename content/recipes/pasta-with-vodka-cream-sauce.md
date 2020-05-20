@@ -1,19 +1,43 @@
 ---
 title: Pasta with Vodka Cream Sauce
-description: hello bb
+description: A pasta dinner that's quick to prepare and tastes delicious. Simple is good.
 date: 2020-05-19T21:05:45.027Z
 tags:
   - dinner
-featuredImage: /assets/20200405_180428.jpg
+featuredImage: /assets/20200405_180428_flip.jpg
 components:
   - component:
       componentIngredientObjects:
         - ingredientObject:
-            ingredientDisplay: '1 medium onion, (or 1 large scallion), finely chopped'
+            ingredientDisplay: '1 medium onion (or 1 large scallion), finely chopped'
             ingredientMachineName: onion
         - ingredientObject:
-            ingredientDisplay: '4 garlic cloves, knife-smashed'
+            ingredientDisplay: '4 garlic gloves, knife-smashed'
             ingredientMachineName: garlic
+        - ingredientObject:
+            ingredientDisplay: '4 oz parmesan cheese, finely grated'
+            ingredientMachineName: parmesan
+        - ingredientObject:
+            ingredientDisplay: 2 Tbsp. extra-virgin olive oil (or similar)
+            ingredientMachineName: olive oil
+        - ingredientObject:
+            ingredientDisplay: 1 4.5 oz can tomato paste
+            ingredientMachineName: tomato paste
+        - ingredientObject:
+            ingredientDisplay: ½ tsp crushed red pepper flakes
+            ingredientMachineName: crushed red pepper flakes
+        - ingredientObject:
+            ingredientDisplay: 2 oz. vodka
+            ingredientMachineName: vodka
+        - ingredientObject:
+            ingredientDisplay: ¾ cup heavy cream (or unsweetened oat milk)
+            ingredientMachineName: heavy cream
+        - ingredientObject:
+            ingredientDisplay: '1 lb. pasta (ie. lumache, rigatoni, penne, shell)'
+            ingredientMachineName: pasta
+        - ingredientObject:
+            ingredientDisplay: 'Basil leaves for topping, torn'
+            ingredientMachineName: basil
       componentTitle: Default
 ---
 Start by filling a medium to large pot ¾ of the way full with water and place on a burner at high heat. Add about a spoonful of salt to the water, and cover with it’s lid.
@@ -28,6 +52,16 @@ With a measuring cup, scoop about ¼ cup of boiling water from the pot, then add
 
 Add pasta (1 lb) to pot of boiling salted water and cook according to the package instructions until al dente (the pasta will soften a little more once it’s added to the sauce). Just before the pasta is cooked, remove about 1 cup of pasta water and reserve. Once the pasta is cooked, transfer the drained noodles into the sauce. 
 
-Add ½ cup of pasta water to mix, stif in, then gradually add half the parmesan cheese, stirring constantly to melt in the cheese. You should have a smooth, glossy sauce that coats each piece of pasta. Season with salt and add more pasta water to thin out the sauce, as needed. 
+Add ½ cup of pasta water to mix, stir in, then gradually add half the parmesan cheese, stirring constantly to melt in the cheese. You should have a smooth, glossy sauce that coats each piece of pasta. Season with salt and add more pasta water to thin out the sauce, as needed. 
 
 Serve topped with remaining cheese, drizzled olive oil, and torn basil leaves. Enjoy!
+
+![Lumache Pasta with Vodka Cream Sauce](/assets/20200405_180428.jpg "Lumache Pasta with Vodka Cream Sauce")
+
+In a normal week, our days are packed full with extra-curriculars, exercise, going out to eat, and socializing with friends. During our March 2020 quarantine, however, these activities ceased to exist at all. We love cooking, and always make at least 1 meal together each week, but now we had so much more time to plan and experiment. One day, we came across Bon Appétit’s 73 Vegetarian Dinner Recipes, and have scarcely needed inspiration for dinners since. 
+
+Being in quarantine means we couldn’t just run to the grocery store to pick up missing ingredients. We shortlisted a few meals from the 73 list, and fortunately the ingredients for Rigatoni with Easy Vodka Sauce were, more or less, in our pantry already. It became the first recipe we took inspiration on from the list of 73. 
+
+One key thing we’ve learned from cooking together over the years, is that it’s very important to read the instructions. For example, they might tell you to reserve the cooking liquid in step 3 for a crucial instruction in step 9, where skipping that step would result in missing out on half the flavour punch! But, it is also totally acceptable to take liberties sometimes. Is a shallot close enough to an onion in this case? Can we replace cilantro with parsley in another recipe, to forego a flavouring of soap for half our guests? Does vegan yogurt work comparably to dairy yogurt so that our vegan friends can eat our naan bread?
+
+If you’re looking for an easy, creamy, tasty pasta, we most certainly recommend trying out Bon Appétit’s Rigatoni recipe (linked above). But we also recommend trying it out with a vegan spin, or with different herbs from your garden, or with whatever noodles you have on deck. The world is your oyster, whether or not you eat oysters.
