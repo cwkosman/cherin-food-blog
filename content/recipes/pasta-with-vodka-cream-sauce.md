@@ -5,9 +5,16 @@ date: 2020-05-19T21:05:45.027Z
 tags:
   - dinner
 featuredImage: /assets/20200405_180428.jpg
-ingredients:
-  - 1 medium onion (or 1 large scallion)
-  - '4 garlic gloves, knife-smashed'
+components:
+  - component:
+      componentIngredientObjects:
+        - ingredientObject:
+            ingredientDisplay: '1 medium onion, (or 1 large scallion), finely chopped'
+            ingredientMachineName: onion
+        - ingredientObject:
+            ingredientDisplay: '4 garlic cloves, knife-smashed'
+            ingredientMachineName: garlic
+      componentTitle: Default
 ---
 Start by filling a medium to large pot ¾ of the way full with water and place on a burner at high heat. Add about a spoonful of salt to the water, and cover with it’s lid.
 
