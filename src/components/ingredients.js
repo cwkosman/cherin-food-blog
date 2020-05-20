@@ -8,28 +8,37 @@
 import React from "react"
 import styled from "styled-components"
 
-// import { rhythm, scale } from "../utils/typography"
+import { rhythm } from "../utils/typography"
+import colours from "../utils/colour"
+
+const IngredientsWrapper = styled.div`
+  background-color: ${colours.mutedPrimary};
+  padding: ${rhythm(2)};
+`
+
+const IngredientList = styled.ul`
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+`
+
+const Ingredient = styled.li`
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+`
 
 function Ingredients(props) {
-  const IngredientsWrapper = styled.div`
-    display: block;
-    border: none;
-    box-sizing: border-box;
-    padding: 10px 25px;
-    letter-spacing: 2px;
-  `
-  console.log(props.components)
-
   const ingredientsList = props.components.map(({ component }) => (
     <React.Fragment key={component.componentTitle}>
       {props.components.length > 1 ? <h2>{component.componentTitle}</h2> : null}
-      <ul>
+      <IngredientList>
         {component.componentIngredientObjects.map(({ ingredientObject }) => (
-          <li key={ingredientObject.ingredientDisplay}>
+          <Ingredient key={ingredientObject.ingredientDisplay}>
             {ingredientObject.ingredientDisplay}
-          </li>
+          </Ingredient>
         ))}
-      </ul>
+      </IngredientList>
     </React.Fragment>
   ))
 

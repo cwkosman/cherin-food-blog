@@ -1,17 +1,14 @@
 import Typography from "typography"
-import Wordpress2016 from "typography-theme-wordpress-2016"
 
-Wordpress2016.overrideThemeStyles = () => {
-  return {
-    "a.gatsby-resp-image-link": {
-      boxShadow: `none`,
-    },
-  }
-}
-
-delete Wordpress2016.googleFonts
-
-const typography = new Typography(Wordpress2016)
+const typography = new Typography({
+  baseFontSize: "20px",
+  baseLineHeight: 1.5,
+  scale: 3,
+  googleFonts: [{ name: "Crimson Pro", styles: [400, 700] }],
+  headerFontFamily: ["Crimson Pro", "Georgia", "serif"],
+  bodyFontFamily: ["Crimson Pro", "Georgia", "serif"],
+  // See below for the full list of options.
+})
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== `production`) {
