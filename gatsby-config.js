@@ -19,7 +19,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 800,
+              maxWidth: 16 * 24,
             },
           },
           {
@@ -67,6 +67,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {
