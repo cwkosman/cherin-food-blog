@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Title TBD`,
+    title: `Super Cool Food Blog Title`,
     author: `Erin Quon & Chuck Kosman`,
     description: `A no nonsense food blog`,
     siteUrl: `https://cherin-food-blog.netlify.app/`,
@@ -56,11 +56,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Super Cool Food Blog Title`,
+        short_name: `Super Cool Food Blog Title`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#f0f5f4`,
         display: `minimal-ui`,
         // edit below
         icon: `static/gatsby-icon.png`,

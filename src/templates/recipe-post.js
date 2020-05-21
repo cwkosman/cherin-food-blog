@@ -1,77 +1,35 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
-import Img from "gatsby-image"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Container from "../components/container"
+import Intro from "../components/intro"
+import Body from "../components/Body"
+import FeaturedImage from "../components/featuredImage"
 import Ingredients from "../components/ingredients"
-import { rhythm, scale } from "../utils/typography"
+import PostLinks from "../components/postLinks"
 
-class RecipePostTemplate extends React.Component {
-  render() {
-    const post = this.props.data.markdownRemark
-    const { featuredImage, components } = post.frontmatter
-    const siteTitle = this.props.data.site.siteMetadata.title
-    const { previous, next } = this.props.pageContext
+function RecipePostTemplate(props) {
+  const post = props.data.markdownRemark
+  const {
+    featuredImage,
+    components,
+    title,
+    description,
+    date,
+  } = post.frontmatter
+  const { previous, next } = props.pageContext
 
-    return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title={post.frontmatter.title}
-          description={post.frontmatter.description || post.excerpt}
-        />
-        <Container>
-          <h1 style={{ textAlign: `center`, ...scale(1.5) }}>
-            {post.frontmatter.title}
-          </h1>
-          <p style={{ textAlign: `center` }}>{post.frontmatter.date}</p>
-        </Container>
-
-        <Img fluid={featuredImage.childImageSharp.fluid} />
-        <Container>
-          <p style={{ textAlign: `center` }}>{post.frontmatter.description}</p>
-          <ul>
-            {post.frontmatter.tags.map(tag => (
-              <li key={tag}>{tag}</li>
-            ))}
-          </ul>
-          <Ingredients components={components} />
-          <div dangerouslySetInnerHTML={{ __html: post.html }} />
-          <hr
-            style={{
-              marginBottom: rhythm(1),
-            }}
-          />
-
-          <ul
-            style={{
-              display: `flex`,
-              flexWrap: `wrap`,
-              justifyContent: `space-between`,
-              listStyle: `none`,
-              padding: 0,
-            }}
-          >
-            <li>
-              {previous && (
-                <Link to={`recipes${previous.fields.slug}`} rel="prev">
-                  ← {previous.frontmatter.title}
-                </Link>
-              )}
-            </li>
-            <li>
-              {next && (
-                <Link to={`recipes${next.fields.slug}`} rel="next">
-                  {next.frontmatter.title} →
-                </Link>
-              )}
-            </li>
-          </ul>
-        </Container>
-      </Layout>
-    )
-  }
+  return (
+    <Layout>
+      <SEO title={title} description={description || post.excerpt} />
+      <Intro title={title} date={date} description={description} />
+      <FeaturedImage image={featuredImage} />
+      <Ingredients components={components} />
+      <Body content={post.html}></Body>
+      <PostLinks previous={previous} next={next} />
+    </Layout>
+  )
 }
 
 export default RecipePostTemplate

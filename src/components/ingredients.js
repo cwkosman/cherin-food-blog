@@ -8,13 +8,19 @@
 import React from "react"
 import styled from "styled-components"
 
+import Container from "./container"
+
 import { rhythm, scale } from "../utils/typography"
 import colours from "../utils/colour"
 
 const IngredientsWrapper = styled.div`
   background-color: ${colours.mutedPrimary};
-  padding: ${rhythm(2)};
-  margin-bottom: ${rhythm(1)};
+  padding: ${rhythm(1.5)};
+  margin: 0 -${rhythm(1.5)};
+  @media (min-width: ${rhythm(30)}) {
+    padding: ${rhythm(2)};
+    margin: 0;
+  }
 `
 
 const IngredientList = styled.ul`
@@ -47,7 +53,12 @@ function Ingredients(props) {
     </React.Fragment>
   ))
 
-  return <IngredientsWrapper>{ingredientsList}</IngredientsWrapper>
+  return (
+    <Container>
+      <h2>Ingredients</h2>
+      <IngredientsWrapper>{ingredientsList}</IngredientsWrapper>
+    </Container>
+  )
 }
 
 export default Ingredients

@@ -7,7 +7,11 @@ const typography = new Typography({
   googleFonts: [{ name: "Crimson Pro", styles: [400, 700] }],
   headerFontFamily: ["Crimson Pro", "Georgia", "serif"],
   bodyFontFamily: ["Crimson Pro", "Georgia", "serif"],
-  // See below for the full list of options.
+  overrideStyles: () => ({
+    img: {
+      marginBottom: 0,
+    },
+  }),
 })
 
 // Hot reload typography in development.
