@@ -1,10 +1,10 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Layout from "../components/Layout"
-import SEO from "../components/Seo"
-import Container from "../components/Container"
-import Button from "../components/Button"
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+import Container from "../components/container"
+import Button from "../components/button"
 
 import { rhythm } from "../utils/typography"
 
