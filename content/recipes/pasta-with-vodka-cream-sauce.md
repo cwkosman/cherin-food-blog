@@ -1,5 +1,5 @@
 ---
-title: Pasta with Vodka Cream Sauce
+title: PASTA WITH VODKA CREAM SAUCE
 description: A pasta dinner that's quick to prepare and tastes delicious. Simple is good.
 date: 2020-05-19T21:05:45.027Z
 tags:
