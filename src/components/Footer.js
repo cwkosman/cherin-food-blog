@@ -1,5 +1,5 @@
 import React from "react"
-import Container from "./container"
+import Container from "./Container"
 import styled from "styled-components"
 
 import colours from "../utils/colour"

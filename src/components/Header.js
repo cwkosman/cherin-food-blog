@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import Container from "./container"
+import Container from "./Container"
 import styled from "styled-components"
 
 import { rhythm } from "../utils/typography"

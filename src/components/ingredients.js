@@ -8,7 +8,7 @@
 import React from "react"
 import styled from "styled-components"
 
-import Container from "./container"
+import Container from "./Container"
 
 import { rhythm, scale } from "../utils/typography"
 import colours from "../utils/colour"
