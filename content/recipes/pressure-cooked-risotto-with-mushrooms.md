@@ -1,5 +1,5 @@
 ---
-title: Pressure Cooked Risotto with Mushrooms
+title: PRESSURE COOKED RISOTTO WITH MUSHROOMS
 description: 'Multi-purposed meal, good for a rainy day or bringing to a potluck'
 date: 2020-05-20T23:59:40.311Z
 tags:
