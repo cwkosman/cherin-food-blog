@@ -7,7 +7,7 @@
 
 import React from "react"
 
-import Container from "./container"
+import Container from "./Container"
 
 import { rhythm } from "../utils/typography"
 

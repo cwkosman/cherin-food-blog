@@ -1,13 +1,13 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import Intro from "../components/intro"
+import Layout from "../components/Layout"
+import SEO from "../components/Seo"
+import Intro from "../components/Intro"
 import Body from "../components/Body"
-import FeaturedImage from "../components/featuredImage"
-import Ingredients from "../components/ingredients"
-import PostLinks from "../components/postLinks"
+import FeaturedImage from "../components/FeaturedImage"
+import Ingredients from "../components/Ingredients"
+import PostLinks from "../components/PostLinks"
 
 function RecipePostTemplate(props) {
   const post = props.data.markdownRemark

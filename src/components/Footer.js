@@ -1,6 +1,7 @@
 import React from "react"
-import Container from "./Container"
 import styled from "styled-components"
+
+import Container from "./Container"
 
 import colours from "../utils/colour"
 import { rhythm } from "../utils/typography"

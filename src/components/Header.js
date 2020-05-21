@@ -1,10 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
-import Container from "./Container"
 import styled from "styled-components"
 
-import { rhythm } from "../utils/typography"
+import Container from "./Container"
 
+import { rhythm } from "../utils/typography"
 import colours from "../utils/colour"
 
 function Header({ title }) {
@@ -51,7 +51,7 @@ function Header({ title }) {
               textDecoration: `none`,
               color: `inherit`,
             }}
-            to={`/`}
+            to={`/recipes`}
           >
             Recipes
           </Link>

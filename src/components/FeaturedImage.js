@@ -1,4 +1,5 @@
 import React from "react"
+
 import Img from "gatsby-image"
 
 import { rhythm } from "../utils/typography"
