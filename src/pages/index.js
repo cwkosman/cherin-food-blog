@@ -1,10 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import Layout from "../components/Layout"
-import Container from "../components/Container"
-import SEO from "../components/Seo"
-import Button from "../components/Button"
+import Layout from "../components/layout"
+import Container from "../components/container"
+import SEO from "../components/seo"
+import Button from "../components/button"
 
 function IndexPage(props) {
   return (

@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 import styled from "styled-components"
 
-import Container from "./Container"
+import Container from "./container"
 
 import { rhythm } from "../utils/typography"
 import colours from "../utils/colour"
