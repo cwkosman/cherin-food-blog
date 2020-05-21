@@ -1,5 +1,5 @@
 ---
-title: PASTA WITH VODKA CREAM SAUCE
+title: Pasta With Vodka Cream Sauce
 description: A pasta dinner that's quick to prepare and tastes delicious. Simple is good.
 date: 2020-05-19T21:05:45.027Z
 tags:
@@ -9,13 +9,13 @@ components:
   - component:
       componentIngredientObjects:
         - ingredientObject:
-            ingredientDisplay: '1 medium onion (or 1 large scallion), finely chopped'
+            ingredientDisplay: 1 medium onion (or 1 large scallion), finely chopped
             ingredientMachineName: onion
         - ingredientObject:
-            ingredientDisplay: '4 garlic gloves, knife-smashed'
+            ingredientDisplay: 4 garlic gloves, knife-smashed
             ingredientMachineName: garlic
         - ingredientObject:
-            ingredientDisplay: '4 oz parmesan cheese, finely grated'
+            ingredientDisplay: 4 oz parmesan cheese, finely grated
             ingredientMachineName: parmesan
         - ingredientObject:
             ingredientDisplay: 2 Tbsp. extra-virgin olive oil (or similar)
@@ -33,10 +33,10 @@ components:
             ingredientDisplay: ¾ cup heavy cream (or unsweetened oat milk)
             ingredientMachineName: heavy cream
         - ingredientObject:
-            ingredientDisplay: '1 lb. pasta (ie. lumache, rigatoni, penne, shell)'
+            ingredientDisplay: 1 lb. pasta (ie. lumache, rigatoni, penne, shell)
             ingredientMachineName: pasta
         - ingredientObject:
-            ingredientDisplay: 'Basil leaves for topping, torn'
+            ingredientDisplay: Basil leaves for topping, torn
             ingredientMachineName: basil
       componentTitle: Default
 ---
