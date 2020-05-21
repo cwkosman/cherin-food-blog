@@ -1,6 +1,6 @@
 ---
-title: PRESSURE COOKED RISOTTO WITH MUSHROOMS
-description: 'Multi-purposed meal, good for a rainy day or bringing to a potluck'
+title: Pressure Cooked Risotto With Mushrooms
+description: Multi-purposed meal, good for a rainy day or bringing to a potluck
 date: 2020-05-20T23:59:40.311Z
 tags:
   - appetizer
@@ -12,12 +12,11 @@ components:
             ingredientDisplay: 2 cups of Arborio Rice (or short grain white pearl rice)
             ingredientMachineName: arborio rice
         - ingredientObject:
-            ingredientDisplay: >-
-              1 L of broth (chicken or vegetable) or 2 Tbsp. of Better than
+            ingredientDisplay: 1 L of broth (chicken or vegetable) or 2 Tbsp. of Better than
               Bouillon with water
             ingredientMachineName: broth
         - ingredientObject:
-            ingredientDisplay: '1 onion, finely chopped'
+            ingredientDisplay: 1 onion, finely chopped
             ingredientMachineName: onion
         - ingredientObject:
             ingredientDisplay: ¼ cup white wine (or 1 Tbsp. of rice vinegar)
@@ -29,10 +28,10 @@ components:
             ingredientDisplay: 1 Tbsp. Butter (optional)
             ingredientMachineName: butter
         - ingredientObject:
-            ingredientDisplay: '2 oz. Parmesan cheese, finely grated'
+            ingredientDisplay: 2 oz. Parmesan cheese, finely grated
             ingredientMachineName: parmesan
         - ingredientObject:
-            ingredientDisplay: '500 g Mushrooms (crimini, oyster, shitake, or porcini), sliced'
+            ingredientDisplay: 500 g Mushrooms (crimini, oyster, shitake, or porcini), sliced
             ingredientMachineName: mushroom
         - ingredientObject:
             ingredientDisplay: Salt and pepper to taste
