@@ -37,7 +37,7 @@ components:
         - ingredientObject:
             ingredientDisplay: 1 Tbsp. soy sauce (optional)
             ingredientMachineName: soy sauce
-      componentTitle: Endive Scoops
+      componentTitle: Scoops
 ---
 Bring 2 parts water (or broth) to 1 part quinoa to boil. Optionally, as the water heats up, add for flavour (white wine, Better than Bouillon, miso and soy sauce, or salt and pepper). Cover and reduce heat to simmer. 
 
