@@ -1,5 +1,5 @@
 ---
-title: Scoop there it is
+title: SCOOP THERE IT IS
 description: Meatless fridge foraging at it's finest
 date: 2020-05-21T00:14:28.972Z
 tags:
