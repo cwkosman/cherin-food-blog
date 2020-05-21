@@ -8,8 +8,6 @@ tags:
 featuredImage: /assets/20200427_192429_flip.jpg
 components:
   - component:
-      componentTitle: Default
-  - component:
       componentIngredientObjects:
         - ingredientObject:
             ingredientDisplay: '2 bunches endives, separated into individual scoops'
