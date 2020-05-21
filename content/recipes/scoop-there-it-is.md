@@ -1,5 +1,5 @@
 ---
-title: SCOOP THERE IT IS
+title: Scoop There It Is
 description: Meatless fridge foraging at it's finest
 date: 2020-05-21T00:14:28.972Z
 tags:
@@ -10,24 +10,23 @@ components:
   - component:
       componentIngredientObjects:
         - ingredientObject:
-            ingredientDisplay: '2 bunches endives, separated into individual scoops'
+            ingredientDisplay: 2 bunches endives, separated into individual scoops
             ingredientMachineName: endive
         - ingredientObject:
-            ingredientDisplay: '1 cup quinoa (or bulgar, or millet, or other grain of choice)'
+            ingredientDisplay: 1 cup quinoa (or bulgar, or millet, or other grain of choice)
             ingredientMachineName: quinoa
         - ingredientObject:
             ingredientDisplay: A handful of radishes thinly sliced
             ingredientMachineName: radish
         - ingredientObject:
-            ingredientDisplay: >-
-              1 to 2 Italian-style sausages, chopped into 1 inch pieces (vegan
-              or meat) 
+            ingredientDisplay: "1 to 2 Italian-style sausages, chopped into 1 inch pieces
+              (vegan or meat) "
             ingredientMachineName: sausage
         - ingredientObject:
-            ingredientDisplay: '1 medium beet, shredded (or carrot)'
+            ingredientDisplay: 1 medium beet, shredded (or carrot)
             ingredientMachineName: beet
         - ingredientObject:
-            ingredientDisplay: '1 red pepper, medium chopped (or other peppers)'
+            ingredientDisplay: 1 red pepper, medium chopped (or other peppers)
             ingredientMachineName: red pepper
         - ingredientObject:
             ingredientDisplay: Salt and pepper to taste
