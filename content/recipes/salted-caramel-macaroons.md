@@ -45,7 +45,11 @@ components:
             ingredientMachineName: butter
       componentTitle: Caramel
 ---
+**Caramel**
+
 In a small saucepan, heat up sugar (3/4 cup) and (optionally) butter (1 Tbsp.) over medium heat, whisking constantly. As sugar starts to melt and change colour (about 3-5 min), add salt (1 Tsp.), and optionally add heavy cream (1/4 cup) to thin out the caramel. 
+
+**Macaroons**
 
 Set oven rack near center and preheat oven to 325°F. Line baking sheet with parchment paper. 
 
@@ -63,6 +67,6 @@ The macaroons keep well in an airtight container at room temperature for about a
 
 ![Close up of salted caramel macaroons with caramel drizzle](/assets/_dsc0850_adjust.jpg "salted caramel macaroons with caramel drizzle ")
 
-The first time we made macaroons, was as a dessert addition to our family's Passover dinner. After some searching on the internet and cookbooks, Jenn Segal's [Coconut Macaroons recipe](https://www.onceuponachef.com/recipes/coconut-macaroons.html) stuck out to us. We love her easy to follow step-by-step approach and inclusion of very useful photos. We made Jenn's macaroons a handful of times, before experimenting with modifications. 
+The first time we made macaroons, was as a dessert addition to our family's Passover dinner. After some searching on the internet and different cookbooks, Jenn Segal's [Coconut Macaroons recipe](https://www.onceuponachef.com/recipes/coconut-macaroons.html) stuck out to us. We love her easy to follow step-by-step approach and inclusion of very useful photos. We made Jenn's macaroons a handful of times, before experimenting with our own modifications. 
 
-Macaroons are a great dessert for keeping kosher for Passover and serving after meat meals, with the option to remove the heavy cream while making the caramel. They're also great with coffee in the morning.
+Macaroons are a great dessert for keeping kosher for Passover and serving after meat meals, with the option to remove the heavy cream while making the caramel. They're also nice addition to your regular coffee in the morning.
