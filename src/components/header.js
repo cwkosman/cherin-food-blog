@@ -4,10 +4,12 @@ import styled from "styled-components"
 
 import Container from "./container"
 
-import { rhythm } from "../utils/typography"
+import { rhythm, scale } from "../utils/typography"
 import colours from "../utils/colour"
 
-function Header({ title }) {
+function Header({ title, location }) {
+  const HeaderElement = location.pathname === "/" ? `h1` : `h2`
+
   const HeaderWrapper = styled.div`
     background-color: ${colours.mutedPrimary};
     margin-bottom: ${rhythm(2)};
@@ -21,7 +23,10 @@ function Header({ title }) {
 
   return (
     <HeaderWrapper>
-      <Container style={{ paddingTop: rhythm(2), paddingBottom: rhythm(2) }}>
+      <Container
+        wide
+        style={{ paddingTop: rhythm(2), paddingBottom: rhythm(2) }}
+      >
         <HeaderInner>
           <Link
             style={{
@@ -33,9 +38,10 @@ function Header({ title }) {
           >
             About
           </Link>
-          <h1 style={{ marginBottom: 0 }}>
+          <HeaderElement style={{ marginBottom: 0 }}>
             <Link
               style={{
+                ...scale(1),
                 boxShadow: `none`,
                 textDecoration: `none`,
                 color: `inherit`,
@@ -44,7 +50,7 @@ function Header({ title }) {
             >
               {title}
             </Link>
-          </h1>
+          </HeaderElement>
           <Link
             style={{
               boxShadow: `none`,

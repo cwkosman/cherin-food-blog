@@ -8,7 +8,7 @@ import Button from "../components/button"
 
 function IndexPage(props) {
   return (
-    <Layout>
+    <Layout location={props.location}>
       <SEO title="Home" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
       <Container>
         <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />

@@ -18,10 +18,11 @@ function RecipePostTemplate(props) {
     description,
     date,
   } = post.frontmatter
+  const { location } = props
   const { previous, next } = props.pageContext
 
   return (
-    <Layout>
+    <Layout location={location}>
       <SEO title={title} description={description || post.excerpt} />
       <Intro title={title} date={date} description={description} />
       <FeaturedImage image={featuredImage} />

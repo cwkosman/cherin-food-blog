@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Super Cool Food Blog Title`,
+    title: `Sustainibbles`,
     author: `Erin Quon & Chuck Kosman`,
-    description: `A no nonsense food blog`,
+    description: `Take your food further`,
     siteUrl: `https://cherin-food-blog.netlify.app/`,
   },
   // The order of plugins matters a lot for NetlifyCMS images! See https://github.com/gatsbyjs/gatsby/issues/13469

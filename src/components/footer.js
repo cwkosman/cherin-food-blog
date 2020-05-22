@@ -6,7 +6,7 @@ import Container from "./container"
 import colours from "../utils/colour"
 import { rhythm } from "../utils/typography"
 
-function Footer() {
+function Footer({ author }) {
   const FooterWrapper = styled.div`
     background-color: ${colours.mutedPrimary};
     margin-top: auto;
@@ -14,8 +14,8 @@ function Footer() {
 
   return (
     <FooterWrapper>
-      <Container style={{ textAlign: `center`, padding: rhythm(2) }}>
-        © {new Date().getFullYear()}
+      <Container style={{ textAlign: `center`, padding: rhythm(1) }}>
+        © {new Date().getFullYear()} {author}
       </Container>
     </FooterWrapper>
   )

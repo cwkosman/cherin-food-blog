@@ -1,50 +1,30 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Container from "../components/container"
-import Button from "../components/button"
+import RecipeCard from "../components/recipe-card"
 
 import { rhythm } from "../utils/typography"
 
-function Recipes({ data }) {
+function Recipes({ data, location }) {
   const posts = data.allMarkdownRemark.edges
 
   return (
-    <Layout>
+    <Layout location={location}>
       <SEO title="Recipes" description="Recipes List" />
-      <Container>
-        <div style={{ margin: "20px 0 40px" }}>
-          {posts.map(({ node }) => {
-            const title = node.frontmatter.title || node.fields.slug
-            return (
-              <div key={node.fields.slug}>
-                <h3
-                  style={{
-                    marginBottom: rhythm(1 / 4),
-                  }}
-                >
-                  <Link
-                    style={{ boxShadow: `none` }}
-                    to={`recipes${node.fields.slug}`}
-                  >
-                    {title}
-                  </Link>
-                </h3>
-                <small>{node.frontmatter.date}</small>
-                <p
-                  dangerouslySetInnerHTML={{
-                    __html: node.frontmatter.description || node.excerpt,
-                  }}
-                />
-              </div>
-            )
-          })}
-        </div>
-        <Link to="/">
-          <Button marginTop="85px">Go Home</Button>
-        </Link>
+      <Container
+        wide
+        style={{
+          display: "grid",
+          gridTemplateColumns: "repeat(auto-fit, minmax(240px, 1fr))",
+          gridGap: `${rhythm(1)}`,
+        }}
+      >
+        {posts.map(({ node }) => {
+          return <RecipeCard node={node} key={node.fields.slug} />
+        })}
       </Container>
     </Layout>
   )
@@ -70,6 +50,13 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 400, maxHeight: 400, cropFocus: CENTER) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
           }
         }
       }
