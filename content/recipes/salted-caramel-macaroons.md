@@ -38,10 +38,10 @@ components:
             ingredientDisplay: 1/4 cup of heavy cream (optional)
             ingredientMachineName: cream
         - ingredientObject:
-            ingredientDisplay: 1 Tsp. salt
+            ingredientDisplay: 1 Tsp. fine grained salt
             ingredientMachineName: salt
         - ingredientObject:
-            ingredientDisplay: 1 Tbsp. butter or dairy free alternative (optional)
+            ingredientDisplay: 3 Tbsp. butter or dairy free alternative (optional)
             ingredientMachineName: butter
       componentTitle: Caramel
 ---
