@@ -5,7 +5,7 @@ description: "Do you love cheese? and beer? and breakfast? Why not combine all
 date: 2020-05-22T18:49:33.378Z
 tags:
   - breakfast
-featuredImage: /assets/_dsc0856_adjust.jpg
+featuredImage: /assets/_dsc0854_adjust.jpg
 components:
   - component:
       componentIngredientObjects:
@@ -74,4 +74,4 @@ While round 1 of waffles cook, prepare your toppings.
 
 Heat up oil to med-high in skillet (1 Tbsp.), add onions and cook until they are slightly transparent. Then add sliced mushrooms and cook until browned around the edges. Reduce heat to low. When waffles are just about ready to be served, turn heat back up to medium and toss in torn bitter greens and salt and pepper to taste. Mix and cook for 2-3 minutes then top waffles. 
 
-![beer cheese waffles topped with sautéed shallots, mushrooms, and swiss chard](assets/_dsc0854_adjust.jpg "beer cheese waffles topped with sautéed shallots, mushrooms, and swiss chard")
+![beer cheese waffles topped with sautéed shallots, mushrooms, and swiss chard](/assets/_dsc0856_adjust.jpg "beer cheese waffles topped with sautéed shallots, mushrooms, and swiss chard")
