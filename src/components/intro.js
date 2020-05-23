@@ -4,13 +4,14 @@ import styled from "styled-components"
 import Container from "./container"
 
 import { scale } from "../utils/typography"
+import { breakpoints } from "../utils/theme"
 
 const PostTitle = styled.h1`
   text-align: center;
-  @media (min-width: 768px) {
+  @media (min-width: ${breakpoints.small}) {
     ${scale(1.5)}
   }
-  @media (min-width: 1920px) {
+  @media (min-width: ${breakpoints.large}) {
     ${scale(2)}
   }
 `

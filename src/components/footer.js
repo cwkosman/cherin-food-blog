@@ -3,7 +3,7 @@ import styled from "styled-components"
 
 import Container from "./container"
 
-import colours from "../utils/colour"
+import { colours } from "../utils/theme"
 import { rhythm } from "../utils/typography"
 
 function Footer({ author }) {

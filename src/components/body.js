@@ -16,11 +16,7 @@ function Body(props) {
     <Container>
       <h2>Instructions</h2>
       <div dangerouslySetInnerHTML={{ __html: props.content }} />
-      <hr
-        style={{
-          marginBottom: rhythm(1),
-        }}
-      />
+      <hr />
     </Container>
   )
 }

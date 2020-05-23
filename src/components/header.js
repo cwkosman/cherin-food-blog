@@ -5,14 +5,26 @@ import styled from "styled-components"
 import Container from "./container"
 
 import { rhythm, scale } from "../utils/typography"
-import colours from "../utils/colour"
+import { colours, breakpoints } from "../utils/theme"
 
 function Header({ title, location }) {
-  const HeaderElement = location.pathname === "/" ? `h1` : `h2`
+  const headerElement = location.pathname === "/" ? `h1` : `h2`
+
+  const HomeLink = styled[headerElement]`
+    margin-bottom: 0;
+    ${scale(0.3)}
+    @media (min-width: ${breakpoints.small}) {
+      ${scale(0.75)}
+    }
+    @media (min-width: ${breakpoints.large}) {
+      ${scale(1)}
+    }
+  `
 
   const HeaderWrapper = styled.div`
     background-color: ${colours.mutedPrimary};
     margin-bottom: ${rhythm(2)};
+    padding: ${rhythm(1.5)} 0;
   `
 
   const HeaderInner = styled.div`
@@ -23,10 +35,7 @@ function Header({ title, location }) {
 
   return (
     <HeaderWrapper>
-      <Container
-        wide
-        style={{ paddingTop: rhythm(2), paddingBottom: rhythm(2) }}
-      >
+      <Container wide>
         <HeaderInner>
           <Link
             style={{
@@ -38,10 +47,9 @@ function Header({ title, location }) {
           >
             About
           </Link>
-          <HeaderElement style={{ marginBottom: 0 }}>
+          <HomeLink>
             <Link
               style={{
-                ...scale(1),
                 boxShadow: `none`,
                 textDecoration: `none`,
                 color: `inherit`,
@@ -50,7 +58,7 @@ function Header({ title, location }) {
             >
               {title}
             </Link>
-          </HeaderElement>
+          </HomeLink>
           <Link
             style={{
               boxShadow: `none`,

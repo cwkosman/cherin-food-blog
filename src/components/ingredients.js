@@ -4,14 +4,18 @@ import styled from "styled-components"
 import Container from "./container"
 
 import { rhythm, scale } from "../utils/typography"
-import colours from "../utils/colour"
+import { colours, breakpoints } from "../utils/theme"
 
+const bufferSmall = rhythm(1.5)
+const bufferLarge = rhythm(2)
+
+// Media query is to have the ingredients snap to the edges of the screen when the container width can do so.
 const IngredientsWrapper = styled.div`
   background-color: ${colours.mutedPrimary};
-  padding: ${rhythm(1.5)};
-  margin: 0 -${rhythm(1.5)};
-  @media (min-width: ${rhythm(30)}) {
-    padding: ${rhythm(2)};
+  padding: ${bufferSmall};
+  margin: 0 -${bufferSmall};
+  @media (min-width: calc(${breakpoints.small} + 4*${bufferSmall})) {
+    padding: ${bufferLarge};
     margin: 0;
   }
 `

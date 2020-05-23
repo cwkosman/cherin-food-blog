@@ -1,18 +1,24 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import styled, { createGlobalStyle } from "styled-components"
-import colours from "../utils/colour"
+import { colours } from "../utils/theme"
 
 import Header from "./header"
 import Footer from "./footer"
 
 const GlobalStyle = createGlobalStyle`
-  * {
+  html, body: {
+    margin: 0;
+  }
+  *, *::before, *::after {
     box-sizing: border-box;
   }
   a {
     color: ${colours.primary};
   }
+  img: {
+    marginBottom: 0,
+  },
 `
 
 const LayoutWrapper = styled.div`
