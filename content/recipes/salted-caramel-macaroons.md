@@ -28,7 +28,7 @@ components:
         - ingredientObject:
             ingredientDisplay: '4 oz semi-sweet chocolate, chopped (optional)'
             ingredientMachineName: chocolate
-      componentTitle: Macaroon
+      componentTitle: Macaroons
   - component:
       componentIngredientObjects:
         - ingredientObject:
@@ -41,13 +41,15 @@ components:
             ingredientDisplay: 1 Tsp. fine grained salt
             ingredientMachineName: salt
         - ingredientObject:
-            ingredientDisplay: 3 Tbsp. butter or dairy free alternative (optional)
+            ingredientDisplay: 3 Tbsp. butter or dairy free alternative
             ingredientMachineName: butter
       componentTitle: Caramel
 ---
 **Caramel**
 
-In a small saucepan, heat up sugar (3/4 cup) and (optionally) butter (1 Tbsp.) over medium heat, whisking constantly. As sugar starts to melt and change colour (about 3-5 min), add salt (1 Tsp.), and optionally add heavy cream (1/4 cup) to thin out the caramel. 
+In a small saucepan over medium-high, melt sugar (3/4 cup). No need to stir, the sugar will melt all on its own. After the sugar has just melted, whisk constantly and make sure the caramel does not burn. You're looking for a consistent deep golden colour with no remaining sugar grains. If you have a candy thermometer, you're looking to register 350°F.
+
+Remove from heat and whisk in butter (3 Tbsp.). The butter should bubble up. Once the butter is completely incorporated, add salt and heavy cream (1/4 cup), whisking until smooth. Set caramel aside to cool.
 
 **Macaroons**
 
