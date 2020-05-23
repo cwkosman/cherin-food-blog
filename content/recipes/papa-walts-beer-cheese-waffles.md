@@ -1,12 +1,11 @@
 ---
 title: Papa Walt's Beer Cheese Waffles
-description: >-
-  Do you love cheese? and beer? and breakfast? Why not combine all three in this
-  simple savoury waffle recipe. 
+description: "Do you love cheese? and beer? and breakfast? Why not combine all
+  three in this simple savoury waffle recipe. "
 date: 2020-05-22T18:49:33.378Z
 tags:
   - breakfast
-featuredImage: /assets/_dsc0856.jpg
+featuredImage: static/assets/_dsc0856_adjust.jpg
 components:
   - component:
       componentIngredientObjects:
@@ -29,28 +28,28 @@ components:
             ingredientDisplay: 2 eggs
             ingredientMachineName: egg
         - ingredientObject:
-            ingredientDisplay: '2 cup beer (ie. lager, pilsner, pale ale) '
+            ingredientDisplay: "2 cup beer (ie. lager, pilsner, pale ale) "
             ingredientMachineName: beer
         - ingredientObject:
-            ingredientDisplay: '1/4 cup canola oil (or similar) '
+            ingredientDisplay: "1/4 cup canola oil (or similar) "
             ingredientMachineName: oil
         - ingredientObject:
-            ingredientDisplay: '1 cup cheddar cheese, coarsely grated, plus extra for topping'
+            ingredientDisplay: 1 cup cheddar cheese, coarsely grated, plus extra for topping
             ingredientMachineName: cheddar cheese
       componentTitle: Waffles
   - component:
       componentIngredientObjects:
         - ingredientObject:
-            ingredientDisplay: '1 Tbsp. olive oil (or other cooking oil) '
+            ingredientDisplay: "1 Tbsp. olive oil (or other cooking oil) "
             ingredientMachineName: olive oil
         - ingredientObject:
-            ingredientDisplay: '1/4 onion or small shallot, finely chopped '
+            ingredientDisplay: "1/4 onion or small shallot, finely chopped "
             ingredientMachineName: onion
         - ingredientObject:
-            ingredientDisplay: '200 g mushrooms, sliced '
+            ingredientDisplay: "200 g mushrooms, sliced "
             ingredientMachineName: mushroom
         - ingredientObject:
-            ingredientDisplay: 'a handful of bitter greens (ie. kale, collard, arugula) '
+            ingredientDisplay: "a handful of bitter greens (ie. kale, collard, arugula) "
             ingredientMachineName: bitter greens
         - ingredientObject:
             ingredientDisplay: salt and pepper to taste
@@ -75,4 +74,4 @@ While round 1 of waffles cook, prepare your toppings.
 
 Heat up oil to med-high in skillet (1 Tbsp.), add onions and cook until they are slightly transparent. Then add sliced mushrooms and cook until browned around the edges. Reduce heat to low. When waffles are just about ready to be served, turn heat back up to medium and toss in torn bitter greens and salt and pepper to taste. Mix and cook for 2-3 minutes then top waffles. 
 
-![beer cheese waffles topped with sautéed shallots, mushrooms, and swiss chard](/assets/_dsc0854.jpg "beer cheese waffles topped with sautéed shallots, mushrooms, and swiss chard")
+![beer cheese waffles topped with sautéed shallots, mushrooms, and swiss chard](static/assets/_dsc0854_adjust.jpg "beer cheese waffles topped with sautéed shallots, mushrooms, and swiss chard")
