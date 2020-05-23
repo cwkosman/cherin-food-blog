@@ -29,7 +29,8 @@
     "react-switch": "^5.0.0",
     "react-typography": "^0.16.19",
     "styled-components": "^4.4.1",
-    "typography": "^0.16.19"
+    "typography": "^0.16.19",
+    "use-scroll-position": "^0.0.4"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
