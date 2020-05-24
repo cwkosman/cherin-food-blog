@@ -44,16 +44,16 @@ While those cook, wash and prepare the vegetables. Separate endives and radishes
 
 Peel and then coarsely shred beet. Chop red pepper and any additional vegetables Add beet and red pepper to bowl with cooked sausages. 
 
-Once the quinoa has soaked up all the liquid, fluff with a fork and add to the sausage and vegetable mixture. Mix bowl contents well and season with soy sauce (1 Tbsp.) or salt and pepper to taste. 
+Once the quinoa has soaked up all the liquid, fluff with a fork and add to the sausage and vegetable mixture.  Mix bowl contents well and season with soy sauce (1 Tbsp.) or salt and pepper to taste. 
 
 To serve, using a small spoon, scoop contents of mixture onto individual endive leaves and top with radish. 
 
 ![Endive boat topped with grain mix, sliced sausage, and fresh radishes](/assets/20200427_192523.jpg "Endive boat topped with grain mix, sliced sausage, and fresh radishes")
 
-A friend got us involved in a CSA (Community Supported Agriculture) distribution this spring. It seemed like a fun way to mix up our cooking and try new ingredients we wouldn’t have considered before, plus it would make it easier to keep our veggies local. 
+A friend got us involved in a Community Supported Agriculture distribution this spring. It seemed like a fun way to mix up our cooking and try new ingredients we wouldn’t have considered before, plus it would make it easier to keep our veggies local. 
 
-In one of the first packages, we received endive. Both of us had eaten endive before, usually as an appetizer at a fancy restaurant, but never cooked with it. “Should we just throw it in a salad? How about an ‘endive caesar salad’? Will it go with a burger instead of lettuce?” In the end, we went with “how about we make a mix from the leftovers in the fridge and use the endive leaves as a vessel?” 
+In one of the first packages, we received endive. Both of us had eaten endive before, usually as an appetizer at a fancy restaurant, but never cooked with it. “Should we just throw it in a salad? How about an 'endive Caesar salad'? Will it go with a burger instead of lettuce?” In the end, we went with “how about we make a mix from the leftovers in the fridge and use the endive leaves as a vessel?” 
 
-About a year ago, we went through a grain kick to try and get more nutrients (and protein) into our meals, without adding meat or meat substitutes. During our experimentation, we tried millet. Neither of us were overwhelmed with the grain at the time, and ended up forgetting about it. The last cup of millet was doomed to the back of the shelf, not the one where mama keeps the cookies, until quite recently during a big pantry clean. “What’s this? Oh it’s the millet! I guess we should eat it.”
+About a year ago, we went through a grain kick to try and get more nutrients and protein into our meals without adding meat or meat substitutes. During our experimentation, we tried millet. Neither of us were overwhelmed with the grain at the time, and ended up forgetting about it. The last cup of millet was doomed to the back of the shelf, not the one where mama keeps the cookies, until quite recently during a big pantry clean. “What’s this? Oh it’s the millet! I guess we should eat it.”
 
-We cooked up the millet, like we’d cook up quinoa, and added it to stir fry and grain bowls. After eating the first couple of scoops, we were both reminded of why we hadn’t bought it since, and then continued to sprinkle the remaining millet in to different recipes throughout the week to get through it. Eventually, it made its way into our endive scoop experiment, resulting in our most successful millet adventure to date.
+We cooked up the millet like we’d cook up quinoa and added it to stir fry and grain bowls. After eating the first couple of scoops, we were both reminded of why we hadn’t bought it since, and then continued to sprinkle the remaining millet in to different recipes throughout the week to get through it. Eventually, it made its way into our endive scoop experiment, resulting in our most successful millet adventure to date.
