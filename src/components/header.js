@@ -33,42 +33,21 @@ function Header({ title, location }) {
     justify-content: space-between;
   `
 
+  const MenuLink = styled(Link)`
+    boxshadow: none;
+    text-decoration: none;
+    color: inherit;
+  `
+
   return (
     <HeaderWrapper>
       <Container wide>
         <HeaderInner>
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
-            About
-          </Link>
+          <MenuLink to={`/about`}>About</MenuLink>
           <HomeLink>
-            <Link
-              style={{
-                boxShadow: `none`,
-                textDecoration: `none`,
-                color: `inherit`,
-              }}
-              to={`/`}
-            >
-              {title}
-            </Link>
+            <MenuLink to={`/`}>{title}</MenuLink>
           </HomeLink>
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/recipes`}
-          >
-            Recipes
-          </Link>
+          <MenuLink to={`/recipes`}>Recipes</MenuLink>
         </HeaderInner>
       </Container>
     </HeaderWrapper>

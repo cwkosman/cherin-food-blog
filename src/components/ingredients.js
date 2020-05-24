@@ -3,7 +3,7 @@ import styled from "styled-components"
 
 import Container from "./container"
 
-import { rhythm, scale } from "../utils/typography"
+import { rhythm } from "../utils/typography"
 import { colours, breakpoints } from "../utils/theme"
 
 const bufferSmall = rhythm(1.5)
@@ -32,13 +32,15 @@ const Ingredient = styled.li`
   }
 `
 
+const ComponentTitle = styled.h3`
+  margin-bottom: ${rhythm(0.5)};
+`
+
 function Ingredients(props) {
   const ingredientsList = props.components.map(({ component }) => (
     <React.Fragment key={component.componentTitle}>
       {props.components.length > 1 ? (
-        <h2 style={{ marginBottom: rhythm(1 / 2), ...scale(1 / 3) }}>
-          {component.componentTitle}
-        </h2>
+        <ComponentTitle>{component.componentTitle}</ComponentTitle>
       ) : null}
       <IngredientList>
         {component.componentIngredientObjects.map(({ ingredientObject }) => (

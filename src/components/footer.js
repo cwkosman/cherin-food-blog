@@ -10,11 +10,12 @@ function Footer({ author }) {
   const FooterWrapper = styled.div`
     background-color: ${colours.mutedPrimary};
     margin-top: auto;
+    padding: ${rhythm(1)};
   `
 
   return (
     <FooterWrapper>
-      <Container style={{ textAlign: `center`, padding: rhythm(1) }}>
+      <Container center>
         © {new Date().getFullYear()} {author}
       </Container>
     </FooterWrapper>

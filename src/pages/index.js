@@ -31,12 +31,7 @@ function IndexPage({ data, location }) {
       />
       <Container wide>
         <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
-        <h2>
-          Hey people{" "}
-          <span role="img" aria-label="wave emoji">
-            👋
-          </span>
-        </h2>
+        <h2>Latest Recipes</h2>
         <RecipeCardsWrapper>
           {posts.map(({ node }) => {
             return <RecipeCard node={node} key={node.fields.slug} />

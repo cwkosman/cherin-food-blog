@@ -52,10 +52,9 @@ module.exports = {
         short_name: `Super Cool Food Blog Title`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#f0f5f4`,
+        theme_color: `#3d9886`,
         display: `minimal-ui`,
-        // edit below
-        icon: `static/gatsby-icon.png`,
+        icon: `static/apple-touch-icon.png`,
       },
     },
     `gatsby-plugin-netlify-cms`,
