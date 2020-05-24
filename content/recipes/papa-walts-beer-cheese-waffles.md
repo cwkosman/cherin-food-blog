@@ -1,6 +1,6 @@
 ---
 title: Papa Walt's Beer Cheese Waffles
-description: "Do you love cheese? and beer? and breakfast? Why not combine all
+description: "Do you love cheese? And beer? And breakfast? Why not combine all
   three in this simple savoury waffle recipe. "
 date: 2020-05-22T18:49:33.378Z
 tags:
