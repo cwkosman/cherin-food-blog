@@ -6,10 +6,7 @@
  */
 
 import React from "react"
-
 import Container from "./container"
-
-import { rhythm } from "../utils/typography"
 
 function Body(props) {
   return (

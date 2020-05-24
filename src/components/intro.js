@@ -1,6 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 
+import Title from "./title"
 import Container from "./container"
 
 import { scale } from "../utils/typography"
@@ -19,7 +20,7 @@ const PostTitle = styled.h1`
 function Intro({ title, date, description }) {
   return (
     <Container style={{ textAlign: `center` }}>
-      <PostTitle>{title}</PostTitle>
+      <Title title={title} />
       <p style={{ textAlign: `center` }}>{description}</p>
       <p>{date}</p>
     </Container>

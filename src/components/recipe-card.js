@@ -3,7 +3,7 @@ import Img from "gatsby-image"
 import { Link } from "gatsby"
 import { rhythm } from "../utils/typography"
 
-function RecipeCard({ node }) {
+function RecipeCard({ node, showExcerpt }) {
   return (
     <article>
       <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
@@ -13,11 +13,13 @@ function RecipeCard({ node }) {
         </Link>
       </h3>
       <small>{node.frontmatter.date}</small>
-      <p
-        dangerouslySetInnerHTML={{
-          __html: node.frontmatter.description || node.excerpt,
-        }}
-      />
+      {showExcerpt ? (
+        <p
+          dangerouslySetInnerHTML={{
+            __html: node.frontmatter.description || node.excerpt,
+          }}
+        />
+      ) : null}
     </article>
   )
 }

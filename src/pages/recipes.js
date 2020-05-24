@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
+import Title from "../components/title"
 import SEO from "../components/seo"
 import Container from "../components/container"
 import RecipeCard from "../components/recipe-card"
@@ -14,6 +15,7 @@ function Recipes({ data, location }) {
   return (
     <Layout location={location}>
       <SEO title="Recipes" description="Recipes List" />
+      <Title title="Recipes" extraSpace />
       <Container
         wide
         style={{
@@ -23,7 +25,7 @@ function Recipes({ data, location }) {
         }}
       >
         {posts.map(({ node }) => {
-          return <RecipeCard node={node} key={node.fields.slug} />
+          return <RecipeCard node={node} showExcerpt key={node.fields.slug} />
         })}
       </Container>
     </Layout>
