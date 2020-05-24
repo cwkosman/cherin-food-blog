@@ -8,5 +8,9 @@ featuredImage: /assets/20190916-wok-skills-steaming-52.jpg
 components:
   - component:
       componentTitle: Default
+      componentIngredientObjects:
+        - ingredientObject:
+            ingredientMachineName: test
+            ingredientDisplay: test
 ---
 fldkskdfhal
