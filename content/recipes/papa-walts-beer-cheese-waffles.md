@@ -58,15 +58,13 @@ components:
 ---
 Set aside wet ingredients to bring up to room temperature (eggs, beer, oil) and plug in waffle iron to heat up. We use [Cuisinart waffle maker](https://www.cuisinart.com/shopping/appliances/waffle_makers/waf-300) set to level 3. 
 
-In a medium bowl, whisk together flour (1 3/4 cup), cornmeal (2/3 cup), salt (1/2 Tsp.), sugar (1 Tbsp.), and baking powder (1 Tbsp.). 
+In a medium bowl, whisk together flour (1 3/4 cup), cornmeal (2/3 cup), salt (1/2 Tsp.), sugar (1 Tbsp.), and baking powder (1 Tbsp.). Coarsely grate about 1 cup of cheddar cheese, and set aside. 
 
-Coarsely grate about 1 cup of cheddar cheese, and set aside. 
+In a separate bowl, combine beer (2 cups), eggs (2), and oil (1/4 cup) and thoroughly mix. The beer will cause the mixture to foam up. 
 
-In a separate bowl, combine beer (2 cup), eggs (2), and oil (1/4 cup) and thoroughly mix. The beer will cause the mixture to foam up. 
+Add wet ingredients to dry mix until the batter is runny but not fully liquid, it should be a consistency that allows it to spread once ladled onto waffle iron but not completely evenly. Fold in grated cheese to batter. 
 
-Add wet ingredients to dry mix until the batter is runny but not fully liquid, it should be a consistency that allows it to spread once ladled onto waffle iron but not completely evenly. Fold in cheese (1 cup) to batter. 
-
-Once waffle iron is up to temperature, pour about 1 cup of waffle mixture (depending on the size of your waffle iron) onto iron and spread batter so it just about covers all surfaces. We like to use 2 scoops of a soup ladle, this mix makes 3 batches in our waffle maker. 
+Once waffle iron is up to temperature, pour about 1 cup of waffle mixture, depending on the size of your waffle iron, onto iron and spread batter so it just about covers all surfaces. We like to use 2 scoops of a soup ladle, this mix makes 3 batches in our waffle maker. 
 
 Turn oven to 200°F to keep cooked waffles warm ahead of serving. 
 
