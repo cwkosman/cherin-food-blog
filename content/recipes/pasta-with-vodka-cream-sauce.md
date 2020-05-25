@@ -56,7 +56,7 @@ Add ½ cup of pasta water to mix, stir in, then gradually add half the parmesan 
 
 Serve topped with remaining cheese, drizzled olive oil, and torn basil leaves. Enjoy!
 
-![Lumache Pasta with Vodka Cream Sauce](/assets/20200405_180428.jpg "Lumache Pasta with Vodka Cream Sauce")
+![Lumache Pasta with Vodka Cream Sauce](/assets/20200405_180431_adjust.jpg "Lumache Pasta with Vodka Cream Sauce")
 
 In a normal week, our days are packed full with extracurriculars, exercise, going out to eat, and socializing with friends. During our March 2020 quarantine, however, these activities ceased to exist at all. We love cooking, and always make at least one meal together each week, but now we had so much more time to plan and experiment. One day, we came across [Bon Appétit’s 73 Vegetarian Dinner Recipes](https://www.bonappetit.com/recipes/vegetarian/slideshow/easy-vegetarian-dinner-recipes), and have scarcely needed inspiration for dinners since. 
 
