@@ -1,11 +1,11 @@
 ---
-title: Cheesy Mushroom Onion Biscuits
-description: "These fluffy biscuits go great with eggs, a dash of honey, or all
-  on their own. "
+title: Cheesy Onion Mushroom Biscuits
+description: "These fluffy buttermilk biscuits go great with eggs, a dash of
+  honey, or all on their own. "
 date: 2020-05-24T20:46:54.161Z
 tags:
-  - appetizer
   - breakfast
+  - snack
 featuredImage: /assets/20200523_131303_adjust.jpg
 components:
   - component:
@@ -43,7 +43,8 @@ components:
             ingredientDisplay: 1/2 cup (1 stick) unsalted butter, chilled, cut into 1/2-ing cubes
         - ingredientObject:
             ingredientMachineName: cheddar cheese
-            ingredientDisplay: 2 1/2 cups (packed) cheddar cheese, coarsely grated
+            ingredientDisplay: 2 1/2 cups (packed) cheddar cheese, coarsely grated - plus a
+              square slice to top each biscuit
         - ingredientObject:
             ingredientMachineName: green onion
             ingredientDisplay: 3/4 cup green onion (or chives), chopped
@@ -53,7 +54,7 @@ components:
 ---
 Preheat oven to 425°F with rack just above center. Line backing sheet with parchment paper. 
 
-Heat 1 Tbsp. butter in skillet over medium-high heat. Chop onion (1/4). Finely slice mushrooms (150g), about the thickness of bacon, and then coarsely chop. 
+Heat 1 Tbsp. butter in skillet over medium-high heat. Chop onion. Finely slice mushrooms (150g), about the thickness of bacon, and then coarsely chop. 
 
 Add onion to skillet and cook until translucent but not browned. Then add mushrooms, salt (1 Tsp.) and an additional Tbsp. of butter. Mix so that butter coats mushrooms fully, turning mushrooms infrequently with spatula. Feel free to add more butter and salt as they cook  to add flavour. 
 
@@ -61,7 +62,7 @@ Once mushrooms are crisped and browned on the edges, remove from heat and set as
 
 Meanwhile, in a large bowl combine flour (3 3/4 cup), baking powder (1 1/2 Tbsp.), baking soda (1 1/2 Tsp.), salt (1 1/4 Tsp.). Mix well, then add butter cubes. Blend butter and flour mixture until butter is broken into "pea-sized" pieces. You don't want to completely mix in the butter, as the lumps will help add flakiness to the biscuits. 
 
-Next, add to the large bowl the cheese (2 1/2 cups), chopped green onions or chives (3/4 cup), and mushroom "bacon". Gradually add buttermilk, stirring often, until you get a sticky but mold-able batter. Depending on type of flour you're using, you may need to add more or less buttermilk. 
+Next, add cheese (2 1/2 cups) to the large bowl, chopped green onions or chives (3/4 cup), and mushroom "bacon". Gradually add buttermilk, stirring often, until you get a sticky but mold-able batter. Depending on type of flour you're using, you may need to add more or less buttermilk. 
 
 Shape dough using a 1/2 cup measure and spoon, and place onto baking sheet about 2 inches apart. Bake for 20 minutes, then top each biscuit with a square of cheese and bake for another 10-15 min. 
 
