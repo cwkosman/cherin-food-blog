@@ -62,17 +62,17 @@ components:
 ---
 **Jam**
 
-In medium saucepan, combine lemon zest and juice, sugar (3/4 cup), salt (1/4 Tsp.), and vanilla (1/2 Tsp.), stirring occasionally. Bring to a boil over medium heat, then reduce to simmer until sugar is dissolved. 
+*Jam can be made up to 5 days ahead. Store in air tight container and refrigerate.* 
 
-Set aside 1/2 cup of rhubarb, add the remaining rhubarb (2 1/2 cups) to the pan and simmer. using wooden spoon, stir often and mash until rhubarb is softened and saucepan content is thick and and jam-like. 
+In a medium saucepan, combine lemon zest and juice, sugar (3/4 cup), salt (1/4 Tsp.), and vanilla (1/2 Tsp.), stirring occasionally. Bring to a boil over medium heat, then reduce to simmer until sugar is dissolved. 
+
+Set aside 1/2 cup of rhubarb, add the remaining rhubarb (2 1/2 cups) to the pan and simmer. Using wooden spoon, stir often and mash until rhubarb is softened and saucepan content is thick and jam-like. 
 
 Remove from heat and stir reserved rhubarb into jam. Set aside and let cool. 
 
-Jam can be made up to 5 days ahead. Store in air tight container and refrigerate. 
-
 **Squares**
 
-Preheat oven to 350°F. Lightly grease (or coat with nonstick spray) 8x8 inch pan, then line with parchment paper that overhangs about 2 inch on the sides. Grease parchment paper. 
+Preheat oven to 350°F. Lightly grease (or coat with nonstick spray) 8x8 inch pan, then line with parchment paper that overhangs about 2 inch on the sides. Grease parchment paper. This will help to remove the squares once they are done. 
 
 Toast nuts (1 1/4 cup) on baking sheet until slightly darkened, but be careful not to burn (about 5 minutes). Then let cool and coarsely chop. 
 
