@@ -5,7 +5,7 @@ date: 2020-05-21T00:14:28.972Z
 tags:
   - dinner
   - appetizer
-featuredImage: /assets/20200427_192523_adjust.jpg
+featuredImage: /assets/20200427_192429_flip.jpg
 components:
   - component:
       componentIngredientObjects:
@@ -48,7 +48,7 @@ Once the quinoa has soaked up all the liquid, fluff with a fork and add to the s
 
 To serve, using a small spoon, scoop contents of mixture onto individual endive leaves and top with radish. 
 
-![Endive boat topped with grain mix, sliced sausage, and fresh radishes](/assets/20200427_192523.jpg "Endive boat topped with grain mix, sliced sausage, and fresh radishes")
+![Endive boat topped with grain mix, sliced sausage, and fresh radishes](/assets/20200427_192523_adjust.jpg "Endive boat topped with grain mix, sliced sausage, and fresh radishes")
 
 A friend got us involved in a Community Supported Agriculture distribution this spring. It seemed like a fun way to mix up our cooking and try new ingredients we wouldn’t have considered before, plus it would make it easier to keep our veggies local. 
 
