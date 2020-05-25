@@ -5,7 +5,7 @@ date: 2020-05-21T00:14:28.972Z
 tags:
   - dinner
   - appetizer
-featuredImage: /assets/20200427_192429_flip.jpg
+featuredImage: /assets/20200427_192523_adjust.jpg
 components:
   - component:
       componentIngredientObjects:
