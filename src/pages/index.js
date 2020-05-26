@@ -6,13 +6,15 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Container from "../components/container"
 import ButtonLink from "../components/button-link"
+import RecipeHero from "../components/recipe-hero"
 import RecipeCard from "../components/recipe-card"
 
-import { rhythm } from "../utils/typography"
+import { rhythm, scale } from "../utils/typography"
 import { breakpoints } from "../utils/theme"
 
 function IndexPage({ data, location }) {
-  const posts = data.allMarkdownRemark.edges
+  const mostRecentPost = data.mostRecent.edges[0]
+  const lessRecentPosts = data.lessRecent.edges
 
   const RecipeCardsWrapper = styled.div`
     display: grid;
@@ -23,6 +25,12 @@ function IndexPage({ data, location }) {
     }
   `
 
+  const HomeTitle = styled.h2`
+    @media (min-width: ${breakpoints.medium}) {
+      ${scale(1)}
+    }
+  `
+
   return (
     <Layout location={location}>
       <SEO
@@ -30,10 +38,14 @@ function IndexPage({ data, location }) {
         keywords={[`blog`, `food`, `recipes`, `sustainability`]}
       />
       <Container wide>
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
-        <h2>Latest Recipes</h2>
+        <HomeTitle>The Latest</HomeTitle>
+        <RecipeHero
+          node={mostRecentPost.node}
+          key={mostRecentPost.node.fields.slug}
+        />
+        <HomeTitle>More Eats</HomeTitle>
         <RecipeCardsWrapper>
-          {posts.map(({ node }) => {
+          {lessRecentPosts.map(({ node }) => {
             return <RecipeCard node={node} key={node.fields.slug} />
           })}
         </RecipeCardsWrapper>
@@ -60,9 +72,9 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(
+    mostRecent: allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      limit: 3
+      limit: 1
     ) {
       edges {
         node {
@@ -76,7 +88,33 @@ export const pageQuery = graphql`
             description
             featuredImage {
               childImageSharp {
-                fluid(maxWidth: 800, maxHeight: 800, cropFocus: CENTER) {
+                fluid(maxWidth: 1000, maxHeight: 750, cropFocus: CENTER) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    lessRecent: allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 3
+      skip: 1
+    ) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            date(formatString: "MMMM DD, YYYY")
+            title
+            description
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 500, maxHeight: 500, cropFocus: CENTER) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }

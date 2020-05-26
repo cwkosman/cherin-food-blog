@@ -23,8 +23,14 @@ function Header({ title, location }) {
 
   const HeaderWrapper = styled.div`
     background-color: ${colours.mutedPrimary};
-    margin-bottom: ${rhythm(2)};
-    padding: ${rhythm(1.5)} 0;
+    margin-bottom: ${rhythm(1)};
+    padding: ${rhythm(1)} 0;
+    @media (min-width: ${breakpoints.small}) {
+      margin-bottom: ${rhythm(2)};
+    }
+    @media (min-width: ${breakpoints.large}) {
+      padding: ${rhythm(1.5)} 0;
+    }
   `
 
   const HeaderInner = styled.div`

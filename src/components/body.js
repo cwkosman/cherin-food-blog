@@ -11,7 +11,7 @@ import Container from "./container"
 function Body(props) {
   return (
     <Container>
-      <h2>Instructions</h2>
+      <h2>Preparation</h2>
       <div dangerouslySetInnerHTML={{ __html: props.content }} />
       <hr />
     </Container>
