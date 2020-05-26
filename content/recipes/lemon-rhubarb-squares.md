@@ -93,3 +93,5 @@ Bars will keep for about a week refrigerated in sealed container.
 Never before had we cooked with rhubarb, but there it was in our weekly surprise CSA order. We googled around for recipes, but were missing quite a few ingredients to any that caught our attention. We didn't have strawberries, or pie crusts, oats, or cream, oranges or apples. 
 
 We settled on making a dessert and decided to take inspiration from one of the first Bon Appétit [recipes](https://www.bonappetit.com/recipe/rhubarb-brown-butter-bars) that came up after "bon appetit rhubarb" was entered. We were missing about half the ingredients for it, but experimented with some substitutes and it worked out pretty well.
+
+You could try substituting the lemon with other fruit that has some sourness/citrus to it as well, like strawberry or orange.
