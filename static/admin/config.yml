@@ -19,7 +19,7 @@ collections:
       - { name: description, label: Description }
       - { name: date, label: Date, widget: date }
       - { name: tags, label: Tags, widget: list }
-      - { name: featuredImage, label: Featured Image, widget: image }
+      - { name: featuredImage, label: Featured Image, widget: image, default: "/assets/cage.jpg" }
       - label: Components
         name: components
         widget: list

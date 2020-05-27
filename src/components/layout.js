@@ -1,7 +1,7 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import styled, { createGlobalStyle } from "styled-components"
-import { colours } from "../utils/theme"
+import { colours, adjustColor } from "../utils/theme"
 
 import Header from "./header"
 import Footer from "./footer"
@@ -15,6 +15,13 @@ const GlobalStyle = createGlobalStyle`
   }
   a {
     color: ${colours.primary};
+    transition-property: color;
+    transition-duration: 100ms;
+    transition-timing-function: ease-out;
+  }
+  a:hover {
+    color: ${adjustColor(colours.primary, 30)};
+    transition-timing-function: ease-in;
   }
   img: {
     marginBottom: 0,

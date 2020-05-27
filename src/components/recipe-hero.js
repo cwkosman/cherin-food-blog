@@ -18,7 +18,7 @@ function RecipeHero({ node }) {
     }
   `
 
-  const ImageWrapper = styled(Img)`
+  const ImageWrapper = styled(Link)`
     width: 100%;
     @media (min-width: ${breakpoints.medium}) {
       flex: 5 0 0;
@@ -42,8 +42,12 @@ function RecipeHero({ node }) {
   return (
     <RecipeHero>
       <ImageWrapper
-        fluid={node.frontmatter.featuredImage.childImageSharp.fluid}
-      />
+        style={{ boxShadow: `none` }}
+        to={`recipes${node.fields.slug}`}
+      >
+        <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
+      </ImageWrapper>
+
       <HeroContent>
         <HeroContentTitle style={{}}>
           <Link style={{ boxShadow: `none` }} to={`recipes${node.fields.slug}`}>
