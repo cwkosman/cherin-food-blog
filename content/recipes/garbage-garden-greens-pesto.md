@@ -1,5 +1,5 @@
 ---
-title: Garbage (Garden) Greens Pesto
+title: '"Sad Greens" Pesto'
 description: When your salad eyes are larger than your stomach
 date: 2020-05-30T22:37:29.145Z
 tags:
@@ -50,8 +50,8 @@ We recommend using this pesto as a pasta sauce, sandwich enhancement, salad dres
 
 ![Pesto on shell pasta topped with asparagus and Parmesan cheese](/assets/walnutpestoshells.jpg "Garbage Greens Pesto on shell pasta topped with asparagus, walnuts, and Parmesan cheese")
 
-Do you ever buy a ton of greens in anticipation of increasing your salad intake? Or maybe you needed a few handfuls of arugula for a recipe and they only had the 500 g box in the grocery store. Regardless of the reasoning, if you're like us, time to time you'll find yourself in a situation where your greens probably only have a day or two's worth of fridge life left. Already, you're finding a few spinach leaves eeking out brown juice, or that basil you bought last week is starting to curl and soon it'll turn brown and mold. 
+Do you ever buy a ton of greens in anticipation of increasing your salad intake? Or maybe you needed a few handfuls of arugula for a recipe and they only had the 500g box in the grocery store. Regardless of the reasoning, time to time you find yourself in a situation where your greens probably only have a day or two's worth of fridge life left. Already, you're finding a few spinach leaves eeking out brown juice, or that basil you bought last week is starting to curl and soon it'll turn brown and mold. In our household, we call these "sad greens". 
 
-What do you do with these? You know if you don't act quickly, these greens will have to go into the trash, compost, or green bin. If it's spinach or kale, you can put it in your freezer, to add to stir fry or something later, but some of these other greens don't keep as well. Have you ever tried freezing arugula and then using it later? It's really not the same. 
+What do you do with these? You know if you don't act quickly, these greens will have to go into the compost or green bin (or god forbid, the trash). If it's spinach or kale, you can put it in your freezer to add to stir fry or something later, but some of these other greens don't keep as well. Have you ever tried freezing arugula and then using it later? It's really not the same. 
 
-We started experimenting with pesto sauce when we realized that we kept struggling to get through a whole package of arugula on our own. Even if we ate arugula salads and added it to our grain bowls and breakfast sandwiches, the one week of fridge life it permitted was still too short to prevent it from "going home" (as Bubie Sheila says). One week night, we tried blending the almost-off arugula (or "rocket") with olive oil and garlic, adding the juice of a lemon wedge that was also close to going off. It tasted, like pesto sauce. And didn't even have to add pepper to it. We haven't discriminated from non-basil pesto sauces since.
+We started experimenting with pesto sauce when we realized that we kept struggling to get through a whole package of arugula on our own. Even if we ate arugula salads and added it to our grain bowls and breakfast sandwiches, the one week of fridge life it permitted was still too short to prevent it from "going home" (as Bubie Sheila says). One week night, we tried blending the almost-off arugula (or "rocket") with olive oil and garlic, adding the juice of a lemon wedge that was also close to going off. It tasted...like pesto sauce. And, we didn't even have to add pepper to it! We haven't discriminated against non-basil pesto sauces since.
