@@ -13,8 +13,8 @@ components:
             ingredientMachineName: flour
             ingredientDisplay: 1 1/4 cup flour (plus some for working with dough)
         - ingredientObject:
-            ingredientMachineName: baking soda
-            ingredientDisplay: 1 Tsp baking soda
+            ingredientMachineName: baking powder
+            ingredientDisplay: 1 Tsp baking powder
         - ingredientObject:
             ingredientMachineName: salt
             ingredientDisplay: 1 Tsp salt
