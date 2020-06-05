@@ -70,4 +70,4 @@ Let biscuits cool and serve warm or at room temperature.
 
 ![Three cheesy mushroom onion biscuits, plated](/assets/20200523_131303_adjust.jpg "Cheesy mushroom onion biscuits ready to devour")
 
-Recently we have been trading recipes with friends, and [Bon Appétit's Cheddar, Bacon, and Fresh Chives Biscuits](https://www.bonappetit.com/recipe/cheddar-bacon-and-fresh-chive-biscuits) came as highly recommended by cousins in Newfoundland, Bobby and Steph. We decided to try it out with a few modifications, including a meat-alternative. Ratios also ended up being a little different. We were pretty happy with the results!
+Recently we have been trading recipes with friends, and [Bon Appétit's Cheddar, Bacon, and Fresh Chives Biscuits](https://www.bonappetit.com/recipe/cheddar-bacon-and-fresh-chive-biscuits) came as highly recommended by cousins in Newfoundland, Bobby and Steph. We decided to try it out with a few modifications, including a meat-alternative and ratios also ended up being a little different. These biscuits proved great for breakfast sandwiches, biscuits and gravy, and on their own for dinner one night.
