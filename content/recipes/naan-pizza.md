@@ -45,7 +45,7 @@ Prepare pizza toppings. Wash vegetables, tear kale into pieces, slice mushrooms,
 
 Heat about 1 Tsp. of olive oil in a cast iron over medium heat. Roll out 1 quarter of the dough on the cutting board evenly to about 1/8 to 1/4 inch thickness, add flour to the working area to keep dough from sticking as needed. Once dough is rolled out, dust surface of cast iron with a pinch of cornmeal, place rolled dough onto cast iron and add another pinch of cornmeal. Set timer for 4 minutes. 
 
-Then roll the second quarter of dough for the next pizza. Again, adding flour as needed to prevent from sticking. 
+Then roll the second quarter of dough for the next pizza, again adding flour as needed to prevent from sticking. 
 
 Once the bread has started to brown, about 3-4 minutes, flip to fry the other side. Set timer again for 3 or 4 minutes, add 1/4 of toppings (shredded cheese, mushrooms, and kale). Once the bottom of the bread is slightly browned, transfer to baking sheet in oven and cook for about 6 minutes, or until tips of the kale are browned and crisped.
 
@@ -55,10 +55,10 @@ Slice, serve, and enjoy!
 
 ![Naan pizza with kale, mozzarella, and thin radish slices](/assets/20200508_181243.jpg "Naan pizza with kale, mozzarella, and radishes")
 
-We're both big pizza people, with many fond memories of the food from childhood. For Chuck, it was all about the monster sized slices of Real New York (Brooklyn) pizza when visiting his cousins or grandparents. The doorbell ringing and the yelling of "pizza's here!" in a Brooklyn accent. Erin's childhood pizza memories are more in tune with late night dinners, ordering Panago after double-header hockey games, and then later getting a slice of Nat's Pizza Fridays at lunchtime in high school in Kitsilano. 
+We're both big pizza people, with many fond memories of the food from childhood. For Chuck, it was all about the monster sized slices of Brooklyn pizza when visiting his cousins or grandparents, the doorbell ringing and the yelling of "pizza's here!" in a Brooklyn accent. Erin's childhood pizza memories are more in tune with late night dinners, ordering Panago after double-header hockey games, and then later getting a slice of Nat's Pizza Fridays at lunchtime in high school in Kitsilano. 
 
 Naan pizza easily became a go-to for a quick and easy lunch or dinner, when neither of us felt like putting much effort into cooking, but also felt guilty ordering in.
 
-The inspiration for this recipe started with Jamie Oliver's '[5 Ingredients: quick & easy food](https://www.jamieoliver.com/recipes/category/books/5-ingredients-quick-easy-food-recipes/)' cookbook Aunt Margaret got us for Christmas one year. By following the Egg & Mango Chutney Flatbreads recipe, we learned you could make an easy flatbread with only flour, yogurt, a pinch of salt, and just a little bit of olive oil. We made some modifications, wondering if we could modify the flatbread to more resemble naan. 
+The inspiration for this recipe started with Jamie Oliver's '[5 Ingredients: quick & easy food](https://www.jamieoliver.com/recipes/category/books/5-ingredients-quick-easy-food-recipes/)' cookbook Aunt Margaret got us for Christmas one year. By following the Egg & Mango Chutney Flatbreads recipe, we learned you could make an easy flatbread with only flour, yogurt, a pinch of salt, and just [a little bit of olive oil](https://www.youtube.com/watch?v=TsTWFsEi0aE). We made some modifications, wondering if we could modify the flatbread to more resemble naan. 
 
 When experimenting with your own flatbread, you could try mixing up the ratios, adding yeast or eggs for a more risen dough, and whatever toppings you like.
