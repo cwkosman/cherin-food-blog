@@ -1,10 +1,10 @@
 ---
-title: Egg Noodle Casserole
+title: '"Bitter Erbs" Casserole'
 description: The perfect recipe for hiding your greens
 date: 2020-06-13T18:57:23.208Z
 tags:
   - dinner
-featuredImage: /assets/cage.jpg
+featuredImage: /assets/20200606_195556_edit.jpg
 components:
   - component:
       componentTitle: casserole
@@ -70,6 +70,10 @@ Crank oven up to 400°F.
 
 Carefully remove foil and top with breadcrumbs and parmesan mix, bake for an additional 15-20 min, or until most of the broth has boiled off and the top layer of the casserole is slightly browned and crisped. 
 
-PHOTO
+![Egg noodle casserole with bitter greens, garlic, and topped with parmesan cheese and sliced turnips](/assets/20200606_195556_edit.jpg "Egg noodle casserole with bitter greens, garlic, and topped with parmesan cheese and sliced turnips")
 
-STORY
+The idea of this dish first came to us when we were trying to figure out what to do with a mystery green leafy vegetable in our fridge. The grocery order had said it was supposed to be chicory, but the leaves out of the box looked very different from the google image search results for 'chicory greens'. In fact, it most closely resembled thick-stocked weeds that had been left to run wild in an un-cared for yard. 
+
+We first tried smelling it, smelled a bit like grass. Then we tried tasting it raw, and spat it out right away overwhelmed by the harsh bitterness. Still a little unsure of how to use it, we thought... what if we baked it with a lot of cheese? How about we try making a casserole? 
+
+The name "Bitter Erbs" is borrowed from one year's Passover dinner, where a cousin explained the Seder plate without being able to say his 'R's. The pronunciation of "bitter herbs" was just the cutest and funniest thing, and now is part of our regular vocabulary.
