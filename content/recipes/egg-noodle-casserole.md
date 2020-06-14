@@ -1,0 +1,75 @@
+---
+title: Egg Noodle Casserole
+description: The perfect recipe for hiding your greens
+date: 2020-06-13T18:57:23.208Z
+tags:
+  - dinner
+featuredImage: /assets/cage.jpg
+components:
+  - component:
+      componentTitle: casserole
+      componentIngredientObjects:
+        - ingredientObject:
+            ingredientMachineName: bitter greens
+            ingredientDisplay: "2 packed cups bitter greens (ie. chicory, beet leaves,
+              dandelion greens, etc.) "
+        - ingredientObject:
+            ingredientMachineName: butter
+            ingredientDisplay: 1/4 cup butter
+        - ingredientObject:
+            ingredientMachineName: mustard seeds
+            ingredientDisplay: 1 Tbsp. mustard seeds powder
+        - ingredientObject:
+            ingredientMachineName: garlic
+            ingredientDisplay: 3 cloves garlic, crushed
+        - ingredientObject:
+            ingredientMachineName: pepper
+            ingredientDisplay: 1 Tsp. black pepper
+        - ingredientObject:
+            ingredientMachineName: egg noodles
+            ingredientDisplay: Broad egg noodles, about 200 g
+        - ingredientObject:
+            ingredientMachineName: breadcrumbs
+            ingredientDisplay: 1/2 cup breadcrumbs
+        - ingredientObject:
+            ingredientMachineName: parmesan
+            ingredientDisplay: 1/2 cup parmesan cheese, finely grated
+        - ingredientObject:
+            ingredientMachineName: buttermilk
+            ingredientDisplay: 1 cup buttermilk
+        - ingredientObject:
+            ingredientMachineName: milk
+            ingredientDisplay: 1 cup milk
+        - ingredientObject:
+            ingredientMachineName: egg
+            ingredientDisplay: "1 egg (optional) "
+        - ingredientObject:
+            ingredientMachineName: broth
+            ingredientDisplay: "1 cup broth (ie. vegetable, chicken, etc.) "
+        - ingredientObject:
+            ingredientMachineName: cheese
+            ingredientDisplay: "1/2 cup grated cheese (optional) "
+---
+Bring a medium sized pot of salted water to a boil. Blanche bitter greens in small batches one at a time, by placing a handful into the boiling water for up to 1 min then immediately into a cold water bath. This will soften the bitter taste of the greens. 
+
+Pre-heat oven to 350°F. 
+
+In a pan, heat up 1/4 cup butter over medium heat. 
+
+Add crushed garlic (3 cloves) and blanched bitter greens. 
+
+While the garlic and greens cook, heat up/prepare broth (1 cup) and set aside.
+
+Once garlic is browned and greens are softened (but not turned to mush),  transfer to casserole dish. Make sure to add all melted butter to dish as well. Add egg noodles (200 g) to casserole dish, evenly distributed. 
+
+Combine warm broth with milk (1 cup), buttermilk (1 cup), and egg (optional). Mix in pepper (1 Tsp.) and mustard seeds (1 Tbsp.). Slowly pour over egg noodles and greens until the noodles are mostly covered. Cover with foil, bake for 25 min. 
+
+Mix together grated parmesan (1/2 cup) and breadcrumbs (1/2 cup).
+
+Crank oven up to 400°F. 
+
+Carefully remove foil and top with breadcrumbs and parmesan mix, bake for an additional 15-20 min, or until most of the broth has boiled off and the top layer of the casserole is slightly browned and crisped. 
+
+PHOTO
+
+STORY
