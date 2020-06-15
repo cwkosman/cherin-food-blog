@@ -1,7 +1,7 @@
 ---
 title: '"Bitter Erbs" Casserole'
 description: The perfect recipe for hiding your greens
-date: 2020-06-13T18:57:23.208Z
+date: 2020-06-15T18:57:23.208Z
 tags:
   - dinner
 featuredImage: /assets/20200606_195556_edit.jpg
