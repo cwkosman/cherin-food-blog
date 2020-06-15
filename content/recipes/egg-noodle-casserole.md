@@ -50,25 +50,21 @@ components:
             ingredientMachineName: cheese
             ingredientDisplay: "1/2 cup grated cheese (optional) "
 ---
+Preheat oven to 350°F\
+\
 Bring a medium sized pot of salted water to a boil. Blanche bitter greens in small batches one at a time, by placing a handful into the boiling water for up to 1 min then immediately into a cold water bath. This will soften the bitter taste of the greens. 
 
-Pre-heat oven to 350°F. 
+In a pan, heat up 1/4 cup butter over medium heat. Add crushed garlic (3 cloves) and blanched bitter greens.
 
-In a pan, heat up 1/4 cup butter over medium heat. 
+While the garlic and greens cook, heat up/prepare broth (1 cup) and melt the butter. Set both aside.
 
-Add crushed garlic (3 cloves) and blanched bitter greens. 
-
-While the garlic and greens cook, heat up/prepare broth (1 cup) and set aside.
-
-Once garlic is browned and greens are softened (but not turned to mush),  transfer to casserole dish. Make sure to add all melted butter to dish as well. Add egg noodles (200 g) to casserole dish, evenly distributed. 
+Once garlic is browned and greens are softened but not turned to mush, transfer them to casserole dish along with the melted butter. Add egg noodles (200 g) to casserole dish, making sure they are evenly distributed. 
 
 Combine warm broth with milk (1 cup), buttermilk (1 cup), and egg (optional). Mix in pepper (1 Tsp.) and mustard seeds (1 Tbsp.). Slowly pour over egg noodles and greens until the noodles are mostly covered. Cover with foil, bake for 25 min. 
 
 Mix together grated parmesan (1/2 cup) and breadcrumbs (1/2 cup).
 
-Crank oven up to 400°F. 
-
-Carefully remove foil and top with breadcrumbs and parmesan mix, bake for an additional 15-20 min, or until most of the broth has boiled off and the top layer of the casserole is slightly browned and crisped. 
+Crank oven up to 400°F. Carefully remove foil and top with breadcrumbs and parmesan mix, bake for an additional 15-20 min, or until most of the broth has boiled off and the top layer of the casserole is slightly browned and crisped. 
 
 ![Egg noodle casserole with bitter greens, garlic, and topped with parmesan cheese and sliced turnips](/assets/20200606_195556_edit.jpg "Egg noodle casserole with bitter greens, garlic, and topped with parmesan cheese and sliced turnips")
 
