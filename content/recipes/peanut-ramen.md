@@ -64,16 +64,16 @@ components:
             ingredientMachineName: peanuts
             ingredientDisplay: 1/4 cup peanuts, chopped
 ---
-In a pressure cooker bowl, combine broth (4 cups), coconut milk (14 oz), soy sauce (1/4 cup), fish sauce - optional (2 Tbsp), brown sugar (2 Tbsp), peanut butter (1/3 cup), and curry paste (1/4 cup). Add jackfruit, tofu, cremini mushrooms, red peppers, ginger and garlic. Cover and cook on high pressure for 10 minutes. 
+Combine broth (4 cups), coconut milk (14 oz), soy sauce (1/4 cup), fish sauce - optional (2 Tbsp), brown sugar (2 Tbsp), peanut butter (1/3 cup), and curry paste (1/4 cup) in a pressure cooker. Add jackfruit, tofu, cremini mushrooms, red peppers, ginger and garlic. Cover and cook on high pressure for 10 minutes.
 
-Once done cooking, release the steam and set pot to sauté. Shred jackfruit with a fork. Stir in noodles, lime juice, spinach, and basil for about 5 minutes, or until noodles are soft. 
+Once done cooking, release the steam and set pot to sauté. Shred jackfruit with a fork. Stir in noodles, lime juice, spinach, and basil and keep on heat for about 5 minutes, or until noodles are soft. 
 
 Ladle soup into bowls, top with peanuts, and serve!
 
-![peanut ramen soup in a bowl topped with lime and basil](/assets/20200702_205410.jpg "peanut ramen topped with lime and basil")
+![Peanut ramen soup in a bowl topped with lime and basil](/assets/20200702_205410.jpg "Peanut ramen topped with lime and basil")
 
-Let's caveat this post with: we love authentic ramen and are graced with the presence of delicious ramen restaurants all over Vancouver which we frequent often,  we also fully recognize that this recipe of ours is not that. 
+We love authentic ramen and Vancouver is full of delicious ramen joints. However, we also like casual, minimal preparation spin offs of our favourite dishes for busy nights. This is most certainly the latter.
 
-This recipe came to us on and rainy Vancouver winter night. It was dark, damp, and flu season was in the air. We wanted a dinner that would warm the bones and chase away the ticklings of a cold. We found Halfbaked Harvest's [30 Minute Thai Peanut Chicken Ramen](https://www.halfbakedharvest.com/20-minute-thai-peanut-chicken-ramen/). 
+This recipe came to us on and rainy Vancouver winter night. It was dark, damp, and flu season was in the air. We wanted a dinner that would warm the bones and chase away the first throat tickles of an oncoming cold. We found Halfbaked Harvest's [30 Minute Thai Peanut Chicken Ramen](https://www.halfbakedharvest.com/20-minute-thai-peanut-chicken-ramen/).
 
-Delightfully surprised such a simple, quick meal could taste this good, we're pleased to share it around with our adjustments. You could really use any protein for this, but we enjoy tofu and adding jackfruit for texture. If you like spice, like us, you can always add more curry paste or use a particular brand (we prefer using Mae Ploy Green Curry Paste).
+Delightfully surprised such a simple, quick meal could taste this good, we're pleased to share it around with our adjustments. You could really use any protein for this, but we enjoy tofu and adding jackfruit for texture. Use a curry paste that meets your spice preference and dietary restrictions; we like using the Mae Ploy brand to bring the heat!
