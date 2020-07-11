@@ -54,4 +54,6 @@ Serve hot!
 
 \---
 
-This meal is the Chuck Special. Onion, garlic, olive oil, pasta, protein and greens, are staples in our kitchen. Whatever the protein or the greens are, they will go happily into this pasta mix. The favourite, however, is fresh Italian Sausages from our local butcher or vegan sausages from the grocery store and broccoli.
+This meal is the Chuck Special. Onion, garlic, olive oil, pasta, protein and greens, are staples in our kitchen. Whatever the protein, greens, or pasta shape are, they will go happily into this mix. Our favourite, however, is fresh Italian Sausages from our local butcher or vegan sausages from the grocery store, broccoli, and 'little ears' orrechiette pasta. 
+
+You can make your our own orrechiette as well, and don't need a pasta maker. Plus, the dough will keep relatively well frozen if you accidentally make too much the first time!
