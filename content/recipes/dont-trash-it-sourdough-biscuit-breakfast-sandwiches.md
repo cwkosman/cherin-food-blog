@@ -5,7 +5,7 @@ date: 2020-07-09T04:04:49.529Z
 tags:
   - breakfast
   - lunch
-featuredImage: /assets/cage.jpg
+featuredImage: /assets/breakfast_biscuit.jpg
 components:
   - component:
       componentTitle: Sourdough Biscuits
