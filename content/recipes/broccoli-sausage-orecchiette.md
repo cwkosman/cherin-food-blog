@@ -1,7 +1,7 @@
 ---
 title: Broccoli and Sausage Orecchiette
 description: Simple is good! Bitter greens pair with sausage over pasta and a hint of spice
-date: 2020-07-09T04:18:14.990Z
+date: 2020-07-20T04:18:14.990Z
 tags:
   - dinner
 featuredImage: /assets/sausage_and_broccoli_orrechiette.jpg
