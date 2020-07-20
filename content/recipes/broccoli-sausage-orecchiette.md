@@ -1,10 +1,10 @@
 ---
-title: Broccoli, Sausage, Orecchiette
-description: Just Chuck it! Simple is good
+title: Broccoli and Sausage Orecchiette
+description: Simple is good! Bitter greens pair with sausage over pasta and a hint of spice
 date: 2020-07-09T04:18:14.990Z
 tags:
   - dinner
-featuredImage: /assets/cage.jpg
+featuredImage: /assets/sausage_and_broccoli_orrechiette.jpg
 components:
   - component:
       componentTitle: Pasta
@@ -38,22 +38,20 @@ Fill a medium pot with water and add salt to boil on high heat.
 
 Meanwhile, heat 1 Tbsp olive oil in skillet over medium heat. 
 
-Mince onion and garlic, and chop broccoli roughly the same size as the pasta. 
+Mince garlic, finely chop onion, and chop broccoli to roughly the same size as the pasta. 
 
-Add onion and garlic to skillet and cook, stirring often, for about 5 min. Then add sausage, de-cased and broken up, or coarsely chopped. Cook for 10 min or until meat is just about cooked through.
+Add onion and garlic to skillet and cook, stirring often, for about 5 min. Then add sausage, de-cased and broken up. Cook for 10 min or until meat is just about cooked through.
 
-Once water is boiled, add 250 g pasta and set timer. Cook to al dente. 
+Once water is boiled, add 250g pasta and set timer. Cook to just al dente.
 
-Add broccoli to skillet mix, stir, cover and let cook on medium-low for another 5 min. 
-
-Once al dente, drain pasta and add to skillet. 
+Add broccoli to skillet mix, stir, cover and let cook on medium-low for another 5 min. Drain pasta and add to skillet. 
 
 Turn off burner, stir in 2 Tbsp of olive oil, red pepper flakes, salt and pepper to taste. 
 
 Serve hot!
 
-\---
+![Broccoli and Sausage Orecchiette](/assets/sausage_and_broccoli_orrechiette.jpg "Broccoli and Sausage Orecchiette")
 
-This meal is the Chuck Special. Onion, garlic, olive oil, pasta, protein and greens, are staples in our kitchen. Whatever the protein, greens, or pasta shape are, they will go happily into this mix. Our favourite, however, is fresh Italian Sausages from our local butcher or vegan sausages from the grocery store, broccoli, and 'little ears' orrechiette pasta. 
+This meal is the Chuck Special. We always have onion, garlic, olive oil, pasta, greens, and some kind of protein on hand and this simple but effective recipe makes the best of all of them. Whatever the protein, greens, or pasta shape are, they will go happily into this mix. Our favourite is fresh Italian Sausages from our local butcher or vegan sausages from the grocery store, broccoli, and 'little ears' orrechiette pasta. 
 
-You can make your our own orrechiette as well, and don't need a pasta maker. Plus, the dough will keep relatively well frozen if you accidentally make too much the first time!
+You can [make your our own orrechiette](https://www.finecooking.com/article/making-robust-flavorful-orecchiette-pasta) as well, and don't need a pasta maker. Plus, the dough will keep relatively well frozen if you accidentally make too much the first time!
