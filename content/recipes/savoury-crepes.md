@@ -53,7 +53,9 @@ Rinse and repeat.
 
 Once all the crepes are made, they can be rolled, folded, filled and/or topped to your heart's content. 
 
-INSERT STORY SOMETHING sourdough starter or cafe crepe esque
+
+
+As we've hopped on the sourdough hype train (though still have yet to make actual sourdough bread), we've discovered that the club is quite large. Almost every outing we have friends who have another suggestion for what to make with it. A friend divulged one of his favourite recipes for the discard was crepes, a version where we didn't need to let it sit overnight. 
 
 The first time we tried this, we fried tomatoes and swiss chard while making the crepes. Placing the tomatoes, greens, and cheddar cheese slices in a line down the center of the crepes, rolled them up, and topped with balsamic reduction. We left them rolled and on a pan at low heat until all the crepes were done and ready to be eaten together. 
 
