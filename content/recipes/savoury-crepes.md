@@ -4,7 +4,7 @@ description: Another good one for your sourdough discard
 date: 2020-08-02T23:28:57.972Z
 tags:
   - breakfast
-featuredImage: /assets/cage.jpg
+featuredImage: /assets/savoury_sourdough_crepe.jpg
 components:
   - component:
       componentTitle: Crepes
@@ -53,7 +53,7 @@ Rinse and repeat.
 
 Once all the crepes are made, they can be rolled, folded, filled and/or topped to your heart's content. 
 
-
+![4 rolled savoury crepes with drizzled balsamic reduction and basil garnish](/assets/savoury_sourdough_crepe.jpg "Cheddar, chard, and tomato savoury crepes with balsamic reduction ")
 
 As we've hopped on the sourdough hype train (though still have yet to make actual sourdough bread), we've discovered that the club is quite large. Almost every outing we have friends who have another suggestion for what to make with it. A friend divulged one of his favourite recipes for the discard was crepes, a version where we didn't need to let it sit overnight. 
 
