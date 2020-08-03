@@ -1,6 +1,6 @@
 ---
 title: Return of the Mac
-description: Vegan mac and cheese for your camping meal needs
+description: Vegan mac and "cheese", perfect as an easy weeknight dinner or for camping
 date: 2020-08-02T22:20:44.258Z
 tags:
   - dinner
