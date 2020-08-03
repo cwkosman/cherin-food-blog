@@ -1,7 +1,7 @@
 ---
-title: Savoury Crepes
-description: Another good one for your sourdough discard
-date: 2020-08-02T23:28:57.972Z
+title: Crêpe de la Cuisine
+description: Another good one for your sourdough discard arsenal
+date: 2020-08-03T23:28:57.972Z
 tags:
   - breakfast
 featuredImage: /assets/savoury_sourdough_crepe.jpg
@@ -55,7 +55,7 @@ Once all the crepes are made, they can be rolled, folded, filled and/or topped t
 
 ![4 rolled savoury crepes with drizzled balsamic reduction and basil garnish](/assets/savoury_sourdough_crepe.jpg "Cheddar, chard, and tomato savoury crepes with balsamic reduction ")
 
-As we've hopped on the sourdough hype train (though still have yet to make actual sourdough bread), we've discovered that the club is quite large. Almost every outing we have friends who have another suggestion for what to make with it. A friend divulged one of his favourite recipes for the discard was crepes, a version where we didn't need to let it sit overnight. 
+As we've hopped on the sourdough hype train (though still have yet to make actual sourdough bread), we've discovered that it's a pretty big club. Almost every outing we have friends who have another suggestion for what to make with it. A friend divulged one of his favourite recipes for the discard was crepes, a version where we didn't need to plan and  let anything sit overnight. 
 
 The first time we tried this, we fried tomatoes and swiss chard while making the crepes. Placing the tomatoes, greens, and cheddar cheese slices in a line down the center of the crepes, rolled them up, and topped with balsamic reduction. We left them rolled and on a pan at low heat until all the crepes were done and ready to be eaten together. 
 
