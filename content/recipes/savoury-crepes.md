@@ -1,7 +1,7 @@
 ---
 title: Not All Heroes Wear Crêpes
 description: Another good one for your sourdough discard
-date: 2020-08-03T23:28:57.972Z
+date: 2020-08-08T23:28:57.972Z
 tags:
   - breakfast
 featuredImage: /assets/savoury_sourdough_crepe.jpg
