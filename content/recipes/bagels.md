@@ -1,11 +1,11 @@
 ---
 title: Holey Rollers
 description: Bagels in the morning, bagels in the evening, bagels at suppertime
-date: 2020-08-03T18:46:33.500Z
+date: 2020-08-21T18:46:33.500Z
 tags:
   - breakfast
   - lunch
-featuredImage: /assets/cage.jpg
+featuredImage: /assets/bagels_in_cast_iron.jpg
 components:
   - component:
       componentTitle: bagels
@@ -57,3 +57,9 @@ Roll each piece of dough into a uniform ball, then roll into a 'rope' about 10-1
 Once the pot of water is at a boil, place unbaked bagels (2-4 at a time) into pot for about 1 minute, flipping them halfway through. Dust the boiled bagels with cornmeal (or other toppings, such as coarse grained salt or sesame seeds) and place on a baking sheet. Leave about 2 inches of space between bagels, as they will expand in the oven. Depending on the size of your oven/baking sheet, you may need to do bake them in two batches. 
 
 Bake at 500°F for 5 minutes. Turn oven down to 400°F, remove tray from oven, flip bagels, and place back in oven for another 20 minutes, or until they are golden brown.
+
+![Bagels on cutting board](/assets/bagels_on_cutting_board.jpg "Bagels on cutting board")
+
+People are touchy about their bagels. First, the bagel itself: do you go for the gigantic, fluffy new York Bagel, or the sweet density of a Montreal Bagel? Next the flavour where there are choices abound. Then the toppings; just schmear or the works? (Chuck's favourite is a sesame Fairmount bagel straight from the oven, eaten while still hot. Erin's favourite is WHATEVER SHE WANTS TO PUT HERE).\
+\
+The upshot of all this is that the possibilities with bagels are endless. This recipe will get you somewhere closer to a New York bagel in size and texture, but boiling the bagels in honey ahead of time gives a taste reminiscent of Montreal style bagels.
