@@ -37,7 +37,7 @@ components:
             ingredientDisplay: 1/4 cup of heavy cream (optional)
             ingredientMachineName: cream
         - ingredientObject:
-            ingredientDisplay: 1 Tsp. fine grained salt
+            ingredientDisplay: 1 tsp. fine grained salt
             ingredientMachineName: salt
         - ingredientObject:
             ingredientDisplay: 3 Tbsp. butter or dairy free alternative
@@ -62,7 +62,7 @@ With two small spoons, create lightly packed tablespoons of batter and place bak
 
 Bake for 22 minutes, until tops and edges are more golden and lightly crisped, rotating the pan front to back about midway through. This recipe makes 2 trays' worth of macaroons, you can also bake 2 trays simultaneously. Let macaroons cool on wire rack or paper towel. 
 
-If dipping the macaroons in chocolate, melt the chocolate in a microwave-safe bowl at medium power, stopping and stirring at 30 second intervals, until just smooth and creamy. Alternatively, melt the chocolate in a double boiler over simmering water. Dip the bottoms of the macaroons in the chocolate, scraping excess off with a knife or spatula and back into the bowl, and return to the lined baking sheets. Place the macaroons in the refrigerator for about 10 minutes to allow the chocolate to set. 
+If dipping the macaroons in chocolate, melt tthe chocolate in a microwave-safe bowl at medium power, stopping and stirring at 30 second intervals, until just smooth and creamy. Alternatively, melt the chocolate in a double boiler over simmering water. Dip the bottoms of the macaroons in the chocolate, scraping excess off with a knife or spatula and back into the bowl, and return to the lined baking sheets. Place the macaroons in the refrigerator for about 10 minutes to allow the chocolate to set. 
 
 The macaroons keep well in an airtight container at room temperature for about a week, and can also be frozen and left in the freezer for a few months. 
 
