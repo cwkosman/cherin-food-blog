@@ -17,10 +17,10 @@ components:
             ingredientDisplay: 1 cup plain yogurt (dairy or non-dairy)
         - ingredientObject:
             ingredientMachineName: baking powder
-            ingredientDisplay: 1 Tsp baking powder
+            ingredientDisplay: 1 tsp. baking powder
         - ingredientObject:
             ingredientMachineName: salt
-            ingredientDisplay: 1 Tsp salt
+            ingredientDisplay: 1 tsp. salt
         - ingredientObject:
             ingredientMachineName: olive oil
             ingredientDisplay: 1 Tbsp olive oil (plus 1 Tbsp for brushing dough)
@@ -39,11 +39,11 @@ components:
 ---
 Place a baking sheet on the middle rack and preheat oven to 500°F. 
 
-Mix flour (1 1/4 cup), baking powder (1 Tsp.), salt (1 Tsp.), yogurt (1 cup), and olive oil (1 Tbsp.) in a large mixing bowl until mixture is a slightly sticky ball of dough. Spread a quarter cup of flour on a cutting board or large, flat surface, place ball of dough and cut in to 4 quarters. Lightly coat the dough quarters with flour and place to the side, or back in the bowl. The dough can be kept refrigerated overnight.
+Mix flour (1 1/4 cup), baking powder (1 tsp.), salt (1 tsp.), yogurt (1 cup), and olive oil (1 Tbsp.) in a large mixing bowl until mixture is a slightly sticky ball of dough. Spread a quarter cup of flour on a cutting board or large, flat surface, place ball of dough and cut in to 4 quarters. Lightly coat the dough quarters with flour and place to the side, or back in the bowl. The dough can be kept refrigerated overnight.
 
 Prepare pizza toppings. Wash vegetables, tear kale into pieces, slice mushrooms, and slice cheese. 
 
-Heat about 1 Tsp. of olive oil in a cast iron over medium heat. Roll out 1 quarter of the dough on the cutting board evenly to about 1/8 to 1/4 inch thickness, add flour to the working area to keep dough from sticking as needed. Once dough is rolled out, dust surface of cast iron with a pinch of cornmeal, place rolled dough onto cast iron and add another pinch of cornmeal. Set timer for 4 minutes. 
+Heat about 1 tsp. of olive oil in a cast iron over medium heat. Roll out 1 quarter of the dough on the cutting board evenly to about 1/8 to 1/4 inch thickness, add flour to the working area to keep dough from sticking as needed. Once dough is rolled out, dust surface of cast iron with a pinch of cornmeal, place rolled dough onto cast iron and add another pinch of cornmeal. Set timer for 4 minutes. 
 
 Then roll the second quarter of dough for the next pizza, again adding flour as needed to prevent from sticking. 
 
