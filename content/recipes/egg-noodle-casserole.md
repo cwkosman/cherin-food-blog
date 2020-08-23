@@ -24,7 +24,7 @@ components:
             ingredientDisplay: 3 cloves garlic, crushed
         - ingredientObject:
             ingredientMachineName: pepper
-            ingredientDisplay: 1 Tsp. black pepper
+            ingredientDisplay: 1 tsp. black pepper
         - ingredientObject:
             ingredientMachineName: egg noodles
             ingredientDisplay: Broad egg noodles, about 200 g
@@ -60,7 +60,7 @@ While the garlic and greens cook, heat up/prepare broth (1 cup) and melt the but
 
 Once garlic is browned and greens are softened but not turned to mush, transfer them to casserole dish along with the melted butter. Add egg noodles (200 g) to casserole dish, making sure they are evenly distributed. 
 
-Combine warm broth with milk (1 cup), buttermilk (1 cup), and egg (optional). Mix in pepper (1 Tsp.) and mustard seeds (1 Tbsp.). Slowly pour over egg noodles and greens until the noodles are mostly covered. Cover with foil, bake for 25 min. 
+Combine warm broth with milk (1 cup), buttermilk (1 cup), and egg (optional). Mix in pepper (1 tsp.) and mustard seeds (1 Tbsp.). Slowly pour over egg noodles and greens until the noodles are mostly covered. Cover with foil, bake for 25 min. 
 
 Mix together grated parmesan (1/2 cup) and breadcrumbs (1/2 cup).
 
