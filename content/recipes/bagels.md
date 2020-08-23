@@ -60,6 +60,8 @@ Bake at 500°F for 5 minutes. Turn oven down to 400°F, remove tray from oven, f
 
 ![Bagels on cutting board](/assets/bagels_on_cutting_board.jpg "Bagels on cutting board")
 
-People are touchy about their bagels. First, the bagel itself: do you go for the gigantic, fluffy new York Bagel, or the sweet density of a Montreal Bagel? Next the flavour where there are choices abound. Then the toppings; just schmear or the works? (Chuck's favourite is a sesame Fairmount bagel straight from the oven, eaten while still hot. Erin's favourite is WHATEVER SHE WANTS TO PUT HERE).\
+People are touchy about their bagels. First, the bagel itself: do you go for the gigantic, fluffy new York Bagel, or the sweet density of a Montreal Bagel? Next the flavour where there are choices abound. Then the toppings; just shmear or the works? (Chuck's favourite is a sesame Fairmount bagel straight from the oven, eaten while still hot. Erin's favourite is the Super Purist double cheese melt from Benny's Bagels - RIP Benny's Kitsilano).\
 \
 The upshot of all this is that the possibilities with bagels are endless. This recipe will get you somewhere closer to a New York bagel in size and texture, but boiling the bagels in honey ahead of time gives a taste reminiscent of Montreal style bagels.
+
+If you like bagels, we encourage you to try out this recipe, especially if you've never tried before. Unleash your inner bagel baker!
