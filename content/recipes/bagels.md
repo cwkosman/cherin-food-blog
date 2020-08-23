@@ -1,7 +1,7 @@
 ---
-title: Holey Rollers
-description: Bagels in the morning, bagels in the evening, bagels at suppertime
-date: 2020-08-21T18:46:33.500Z
+title: Cross-Border Bagels
+description: Part New York, part Montreal, all delicious
+date: 2020-08-23T18:46:33.500Z
 tags:
   - breakfast
   - lunch
