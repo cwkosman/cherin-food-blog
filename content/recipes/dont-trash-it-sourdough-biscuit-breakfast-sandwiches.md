@@ -15,7 +15,7 @@ components:
             ingredientDisplay: 1 cup flour
         - ingredientObject:
             ingredientMachineName: baking powder
-            ingredientDisplay: 2 Tsp. baking powder
+            ingredientDisplay: 2 tsp. baking powder
         - ingredientObject:
             ingredientMachineName: salt
             ingredientDisplay: 3/4 teaspoon salt
@@ -42,7 +42,7 @@ components:
             ingredientDisplay: 1 Tbsp. mustard, or other sauce
         - ingredientObject:
             ingredientMachineName: olive oil
-            ingredientDisplay: 1 Tsp olive oil
+            ingredientDisplay: 1 tsp. olive oil
 ---
 **Sourdough Biscuits**
 
@@ -64,11 +64,9 @@ Remove the biscuits from the oven, and let sit while you prepare the toppings.
 
 Biscuits can also be eaten plain, left to cool and stored at room temperature for several days, or sliced and frozen for longer storage.
 
-
-
 **Breakfast Sandwiches**
 
-Heat 1 Tsp olive oil in skillet over medium heat. Add veggies and sauté until tender. 
+Heat 1 tsp. olive oil in skillet over medium heat. Add veggies and sauté until tender. 
 
 Spread veggies evenly in the skillet, and crack two eggs on top of vegetables. Try to keep the eggs separate from each other. Add 1 oz of water to pan and cover with lid for 3-4 min for soft fried eggs. 
 
