@@ -21,7 +21,7 @@ components:
             ingredientDisplay: 1 Tbsp lemon juice (about 1/2 lemon's worth)
         - ingredientObject:
             ingredientMachineName: salt
-            ingredientDisplay: 1 Tsp salt
+            ingredientDisplay: 1 tsp. salt
         - ingredientObject:
             ingredientMachineName: walnuts
             ingredientDisplay: 1/2 cup walnuts (or similar), toasted and coarsely chopped
