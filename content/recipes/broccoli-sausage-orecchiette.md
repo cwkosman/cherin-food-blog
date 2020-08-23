@@ -29,7 +29,7 @@ components:
             ingredientDisplay: 3 Tbsp. olive oil
         - ingredientObject:
             ingredientMachineName: red pepper flakes
-            ingredientDisplay: 1 Tsp. red pepper flakes
+            ingredientDisplay: 1 tsp. red pepper flakes
         - ingredientObject:
             ingredientMachineName: salt and pepper
             ingredientDisplay: Coarse salt and pepper to taste
