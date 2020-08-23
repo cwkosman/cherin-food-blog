@@ -22,7 +22,7 @@ components:
             ingredientDisplay: "2 Tbsp. butter, or more "
         - ingredientObject:
             ingredientMachineName: salt
-            ingredientDisplay: 1 Tsp. salt, or more to taste
+            ingredientDisplay: 1 tsp. salt, or more to taste
   - component:
       componentTitle: Biscuits
       componentIngredientObjects:
@@ -34,10 +34,10 @@ components:
             ingredientDisplay: 1 1/2 Tbsp. baking powder
         - ingredientObject:
             ingredientMachineName: baking soda
-            ingredientDisplay: 1 1/2 Tsp. baking soda
+            ingredientDisplay: 1 1/2 tsp. baking soda
         - ingredientObject:
             ingredientMachineName: salt
-            ingredientDisplay: 1 1/4 Tsp. salt
+            ingredientDisplay: 1 1/4 tsp. salt
         - ingredientObject:
             ingredientMachineName: butter
             ingredientDisplay: 1/2 cup (1 stick) unsalted butter, chilled, cut into 1/2-ing cubes
@@ -56,11 +56,11 @@ Preheat oven to 425°F with rack just above center. Line backing sheet with parc
 
 Heat 1 Tbsp. butter in skillet over medium-high heat. Chop onion. Finely slice mushrooms (150g), about the thickness of bacon, and then coarsely chop. 
 
-Add onion to skillet and cook until translucent but not browned. Then add mushrooms, salt (1 Tsp.) and an additional Tbsp. of butter. Mix so that butter coats mushrooms fully, turning mushrooms infrequently with spatula. Feel free to add more butter and salt as they cook  to add flavour. 
+Add onion to skillet and cook until translucent but not browned. Then add mushrooms, salt (1 tsp.) and an additional Tbsp. of butter. Mix so that butter coats mushrooms fully, turning mushrooms infrequently with spatula. Feel free to add more butter and salt as they cook  to add flavour. 
 
 Once mushrooms are crisped and browned on the edges, remove from heat and set aside. 
 
-Meanwhile, in a large bowl combine flour (3 3/4 cup), baking powder (1 1/2 Tbsp.), baking soda (1 1/2 Tsp.), salt (1 1/4 Tsp.). Mix well, then add butter cubes. Blend butter and flour mixture until butter is broken into "pea-sized" pieces. You don't want to completely mix in the butter, as the lumps will help add flakiness to the biscuits. 
+Meanwhile, in a large bowl combine flour (3 3/4 cup), baking powder (1 1/2 Tbsp.), baking soda (1 1/2 tsp.), salt (1 1/4 Tsp.). Mix well, then add butter cubes. Blend butter and flour mixture until butter is broken into "pea-sized" pieces. You don't want to completely mix in the butter, as the lumps will help add flakiness to the biscuits. 
 
 Next, add cheese (2 1/2 cups) to the large bowl, chopped green onions or chives (3/4 cup), and mushroom "bacon". Gradually add buttermilk, stirring often, until you get a sticky but mold-able batter. Depending on type of flour you're using, you may need to add more or less buttermilk. 
 
