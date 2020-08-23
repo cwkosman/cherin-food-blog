@@ -7,7 +7,16 @@ tags:
 featuredImage: /assets/cage.jpg
 components:
   - component:
-      componentTitle: Default
+      componentTitle: pancakes
+  - component:
+      componentTitle: fruit compote
+      componentIngredientObjects:
+        - ingredientObject:
+            ingredientMachineName: blackberry
+            ingredientDisplay: 1/2 cup fresh blackberries
+        - ingredientObject:
+            ingredientMachineName: maple syrup
+            ingredientDisplay: 1 tsp maple syrup
 ---
 sub buttermilk for 2 cups whole milk and 2 Tbsp plain yogurt
 
