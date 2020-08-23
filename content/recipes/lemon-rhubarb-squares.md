@@ -23,10 +23,10 @@ components:
             ingredientDisplay: 3/4 cup of sugar
         - ingredientObject:
             ingredientMachineName: salt
-            ingredientDisplay: 1/4 Tsp. salt, fine grained
+            ingredientDisplay: 1/4 tsp. salt, fine grained
         - ingredientObject:
             ingredientMachineName: vanilla
-            ingredientDisplay: 1/2 Tsp. vanilla extract
+            ingredientDisplay: 1/2 tsp. vanilla extract
   - component:
       componentTitle: Squares
       componentIngredientObjects:
@@ -52,10 +52,10 @@ components:
             ingredientDisplay: 1 1/4 cup granola or rolled oats
         - ingredientObject:
             ingredientMachineName: salt
-            ingredientDisplay: 1 Tsp. salt
+            ingredientDisplay: 1 tsp. salt
         - ingredientObject:
             ingredientMachineName: baking soda
-            ingredientDisplay: 1/2 Tsp. baking soda
+            ingredientDisplay: 1/2 tsp. baking soda
         - ingredientObject:
             ingredientMachineName: oil
             ingredientDisplay: 1 Tbsp. cooking oil or nonstick spray for coating baking sheet
@@ -64,7 +64,7 @@ components:
 
 *Jam can be made up to 5 days ahead. Store in air tight container and refrigerate.* 
 
-In a medium saucepan, combine lemon zest and juice, sugar (3/4 cup), salt (1/4 Tsp.), and vanilla (1/2 Tsp.), stirring occasionally. Bring to a boil over medium heat, then reduce to simmer until sugar is dissolved. 
+In a medium saucepan, combine lemon zest and juice, sugar (3/4 cup), salt (1/4 tsp.), and vanilla (1/2 tsp.), stirring occasionally. Bring to a boil over medium heat, then reduce to simmer until sugar is dissolved. 
 
 Set aside 1/2 cup of rhubarb, add the remaining rhubarb (2 1/2 cups) to the pan and simmer. Using wooden spoon, stir often and mash until rhubarb is softened and saucepan content is thick and jam-like. 
 
@@ -78,7 +78,7 @@ Toast nuts (1 1/4 cup) on baking sheet until slightly darkened, but be careful n
 
 Meanwhile, cook butter (3/4 cup) in small saucepan over medium-low heat. Stir often, until it foams, then browns (about 5 min). Then pour into heat-proof mixing bowl, ensuring to include the browned butter. 
 
-Separately, whisk together flour (1 1/4 cup), both sugars (1/4 cup each), salt (1 Tsp.), and baking soda (1/2 Tsp.). Once mixed, add nuts and butter, stirring mixture with rubber spatula or wooden spoon until it's clumpy and wet.  The mixture should hold together when pressed together with hands. 
+Separately, whisk together flour (1 1/4 cup), both sugars (1/4 cup each), salt (1 tsp.), and baking soda (1/2 tsp.). Once mixed, add nuts and butter, stirring mixture with rubber spatula or wooden spoon until it's clumpy and wet.  The mixture should hold together when pressed together with hands. 
 
 Transfer 3, unpacked, cups of mixture to pan. Softly pat down layer with hands. Spread jam over base. Then crumble remaining mixture over the top. 
 
