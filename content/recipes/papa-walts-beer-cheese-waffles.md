@@ -22,7 +22,7 @@ components:
             ingredientDisplay: 1 Tbsp. baking powder
             ingredientMachineName: baking powder
         - ingredientObject:
-            ingredientDisplay: 1/2 Tsp. salt
+            ingredientDisplay: 1/2 tsp. salt
             ingredientMachineName: salt
         - ingredientObject:
             ingredientDisplay: 2 eggs
@@ -58,7 +58,7 @@ components:
 ---
 Set aside wet ingredients to bring up to room temperature (eggs, beer, oil) and plug in waffle iron to heat up. We use [Cuisinart waffle maker](https://www.cuisinart.com/shopping/appliances/waffle_makers/waf-300) set to level 3. 
 
-In a medium bowl, whisk together flour (1 3/4 cup), cornmeal (2/3 cup), salt (1/2 Tsp.), sugar (1 Tbsp.), and baking powder (1 Tbsp.). Coarsely grate about 1 cup of cheddar cheese, and set aside. 
+In a medium bowl, whisk together flour (1 3/4 cup), cornmeal (2/3 cup), salt (1/2 tsp.), sugar (1 Tbsp.), and baking powder (1 Tbsp.). Coarsely grate about 1 cup of cheddar cheese, and set aside. 
 
 In a separate bowl, combine beer (2 cups), eggs (2), and oil (1/4 cup) and thoroughly mix. The beer will cause the mixture to foam up. 
 
