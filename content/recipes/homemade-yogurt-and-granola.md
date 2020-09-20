@@ -65,9 +65,9 @@ Preheat oven to 350 °F.\
 \
 Mix oats, nuts, salt, and cinnamon together in a large mixing bowl.\
 \
-Melt honey and coconut oil together in a small saucepan over medium-low heat. Pour the melted honey and coconut oil over the dry ingredients. Add vanilla extract and stir to combine.\
+Melt honey and coconut oil together in a small saucepan over medium-low heat. Pour the melted honey and coconut oil over the dry ingredients. Add vanilla extract and stir to combine all ingredients completely.\
 \
-Line a baking sheet with parchment paper. Spread the granola mixture evenly over the baking sheet, using the back of a wooden spoon to evenly flatten. Bake for 20 - 24 minutes, turning over the granola halfway through baking and patting down with a wooden spoon. Let cool for 45 minutes, the granola will harden.\
+Line a baking sheet with parchment paper. Spread the granola mixture evenly over the parchment paper, using the back of a wooden spoon to evenly flatten. Bake for 20 - 24 minutes, turning over the granola halfway through baking and again patting down with a wooden spoon. Let cool for 45 minutes, the granola will harden.\
 \
 Break the granola into the desired size and store in airtight containers at room temperature. Optionally, add in coconut flakes and chocolate chips for extra sweetness.
 
