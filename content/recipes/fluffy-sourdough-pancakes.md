@@ -68,7 +68,7 @@ Mix 2 eggs and 4 Tbsp butter (or 1/4 cup oil), add to overnight sponge.
 
 Add 3/4 tsp salt and 1 tsp baking soda to mixture. The batter should bubble. 
 
-Place frying pan over medium heat. Pour batter onto pan, let sit until bubbles start appearing in batter, then flip and cook until browned.
+Place frying pan over medium heat. Pour batter onto pan, let sit until bubbles start appearing in batter, then flip and cook until browned. Remove pancake and repeat until all batter is consumed.
 
 Keep pancakes warm in oven on a baking tray until ready to serve.
 
