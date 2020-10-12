@@ -4,7 +4,7 @@ description: They're scrumptiously delicious
 date: 2020-10-11T20:06:22.265Z
 tags:
   - breakfast
-featuredImage: /assets/cage.jpg
+featuredImage: /assets/sourdough-pancakes_top-down.jpg
 components:
   - component:
       componentTitle: Overnight sponge
@@ -72,7 +72,7 @@ Place frying pan over medium heat. Pour batter onto pan, let sit until bubbles s
 
 In a saucepan, heat berries and maple syrup (or sugar) over medium high heat. Stirring occasionally. 
 
-\---
+![stack of pancakes with blackberry compote](/assets/sourdough-pancakes_profile.jpg "Pancake stack topped with fresh blackberry compote")
 
 You can keep pancakes warm in oven at 200°F while you wait to serve. This same recipe also works for waffles. We tried this with whole wheat flour and the pancakes didn't turn out quite as fluffy, but they were still tasty. 
 
