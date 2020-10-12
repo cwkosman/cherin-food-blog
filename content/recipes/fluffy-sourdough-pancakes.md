@@ -1,6 +1,6 @@
 ---
 title: Fluffy Sourdough Pancakes
-description: They're scrumptiously delicious
+description: Flippin' delicious
 date: 2020-10-11T20:06:22.265Z
 tags:
   - breakfast
@@ -62,18 +62,24 @@ Cover and let rest at a cool temperature for 12 hours, or overnight.
 
 **Pancakes**
 
+Preheat oven to 200 °F.
+
 Mix 2 eggs and 4 Tbsp butter (or 1/4 cup oil), add to overnight sponge. 
 
 Add 3/4 tsp salt and 1 tsp baking soda to mixture. The batter should bubble. 
 
-Place frying pan over medium heat. Pour batter onto pan, let sit until bubbles start appearing in batter, then flip and cook until browned. 
+Place frying pan over medium heat. Pour batter onto pan, let sit until bubbles start appearing in batter, then flip and cook until browned.
+
+Keep pancakes warm in oven until ready to serve.
 
 **Fruit Compote**
 
-In a saucepan, heat berries and maple syrup (or sugar) over medium high heat. Stirring occasionally. 
+In a saucepan, heat berries and maple syrup (or sugar) over medium high heat. Stirring occasionally.
 
-![stack of pancakes with blackberry compote](/assets/sourdough-pancakes_profile.jpg "Pancake stack topped with fresh blackberry compote")
+Top pancakes with fruit compote and serve hot.
 
-You can keep pancakes warm in oven at 200°F while you wait to serve. This same recipe also works for waffles. We tried this with whole wheat flour and the pancakes didn't turn out quite as fluffy, but they were still tasty. 
+![Stack of pancakes with blackberry compote](/assets/sourdough-pancakes_profile.jpg "Pancake stack topped with fresh blackberry compote")
 
-These are actually the most amazing pancakes we have ever had. They are light, fluffy, and delicious. Thanks King Arthur Baking Company, once again, for providing [excellent inspiration](https://www.kingarthurbaking.com/recipes/classic-sourdough-waffles-or-pancakes-recipe) for what to do with our sourdough discard.
+These are the most amazing pancakes we have ever had. Their fluffiness makes them the perfect vessel for soaking up maple or fruit syrup, and their slight tanginess from the sourdough makes them delicious in their own right. Thanks King Arthur Baking Company, once again, for providing [excellent inspiration](https://www.kingarthurbaking.com/recipes/classic-sourdough-waffles-or-pancakes-recipe) for what to do with our sourdough discard.
+
+We tried this with whole wheat flour and the pancakes turned out much denser but nonetheless tasty. The same batter can also be made into waffles which we leave to you to try, dear reader.
