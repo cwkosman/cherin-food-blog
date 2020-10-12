@@ -1,7 +1,7 @@
 ---
 title: Fluffy Sourdough Pancakes
 description: They're scrumptiously delicious
-date: 2020-08-30T20:06:22.265Z
+date: 2020-10-11T20:06:22.265Z
 tags:
   - breakfast
 featuredImage: /assets/cage.jpg
