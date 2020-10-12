@@ -56,9 +56,9 @@ components:
 
 Prepare the night before or 12 hours prior to use. 
 
-Remove 1 cup of sourdough starter and combine in large bowl with 2 cups flour, 2 Tbsp sugar, and 2 cups of buttermilk (or 2 cups regular milk plus 2 Tbsp yogurt). Stir until mixture is consistent. 
+Remove 1 cup of sourdough starter and combine in large bowl with 2 cups flour, 2 Tbsp sugar, and 2 cups of buttermilk (or 2 cups regular milk plus 2 Tbsp yogurt). Stir until just thoroughly mixed. 
 
-Cover and let rest at a cool temperature for 12 hours, or overnight. 
+Cover and let rest at a cool temperature for 12 hours, or overnight.
 
 **Pancakes**
 
