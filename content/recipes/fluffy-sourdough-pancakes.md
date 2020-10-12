@@ -70,7 +70,7 @@ Add 3/4 tsp salt and 1 tsp baking soda to mixture. The batter should bubble.
 
 Place frying pan over medium heat. Pour batter onto pan, let sit until bubbles start appearing in batter, then flip and cook until browned.
 
-Keep pancakes warm in oven until ready to serve.
+Keep pancakes warm in oven on a baking tray until ready to serve.
 
 **Fruit Compote**
 
