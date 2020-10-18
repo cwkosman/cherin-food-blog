@@ -1,6 +1,6 @@
 ---
 title: Homemade Yogurt and Granola
-description: Cut down on packaging waste, DIY yogurt and granola
+description: Skip the packaging waste and the gourmet price tag with DIY yogurt and granola
 date: 2020-08-23T20:09:34.173Z
 tags:
   - breakfast
