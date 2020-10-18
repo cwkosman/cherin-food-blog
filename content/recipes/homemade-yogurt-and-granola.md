@@ -5,7 +5,7 @@ date: 2020-08-23T20:09:34.173Z
 tags:
   - breakfast
   - snack
-featuredImage: /assets/cage.jpg
+featuredImage: /assets/yogurt-and-granola_top-down.jpg
 components:
   - component:
       componentTitle: Yogurt
@@ -69,9 +69,10 @@ Melt honey and coconut oil together in a small saucepan over medium-low heat. Po
 \
 Line a baking sheet with parchment paper. Spread the granola mixture evenly over the parchment paper, using the back of a wooden spoon to evenly flatten. Bake for 20 - 24 minutes, turning over the granola halfway through baking and again patting down with a wooden spoon. Let cool for 45 minutes, the granola will harden.\
 \
-Break the granola into the desired size and store in airtight containers at room temperature. Optionally, add in coconut flakes and chocolate chips for extra sweetness.\
-\
-\[image]\
+Break the granola into the desired size and store in airtight containers at room temperature. Optionally, add in coconut flakes and chocolate chips for extra sweetness.
+
+![Homemade yogurt and granola](/assets/yogurt-and-granola_side.jpg "Homemade yogurt and granola")
+
 \
 Making your own granola and yogurt is super easy and frugal. The proportions of this recipe makes quite a bit of yogurt at a fraction of the price you'd purchase it for in the grocery store. Buy your favourite granola fix-ins in bulk and you'll have weeks worth of granola at a fraction of the cost of that stuff from the hipster bakery.
 
