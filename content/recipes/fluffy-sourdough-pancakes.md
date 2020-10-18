@@ -29,7 +29,7 @@ components:
       componentIngredientObjects:
         - ingredientObject:
             ingredientMachineName: overnight sponge
-            ingredientDisplay: alll overnight sponge
+            ingredientDisplay: all overnight sponge
         - ingredientObject:
             ingredientMachineName: egg
             ingredientDisplay: 2 eggs
