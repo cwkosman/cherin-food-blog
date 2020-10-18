@@ -49,9 +49,9 @@ components:
 ---
 **Plain Yogurt**\
 \
-Add milk to Instant Pot. Click the "yogurt" function until the display reads "Boil". Wait for the Instant Pot to finish the boiling cycle. If using a thermometer, make sure the milk has reached at least 180 °F.\
+Add milk to Instant Pot. Click the "Yogurt" function until the display reads "Boil". Wait for the Instant Pot to finish the boiling cycle. If using a thermometer, make sure the milk has reached at least 180 °F.\
 \
-Remove the inner pot from the Instant Pot. Allow the milk to cool down at room temperature, lid off, to 110 - 115 °F.\
+Remove the inner pot from the Instant Pot. Allow the milk to cool down at room temperature, lid off, to 110 - 115 °F. Optionally, accelerate the cooling by submerging the inner pot in an ice bath.\
 \
 Skin off any "skin" that has developed on to top of the milk. Whisk in the yogurt until completely dissolved in the milk. Return inner pot to the Instant Pot.\
 \
