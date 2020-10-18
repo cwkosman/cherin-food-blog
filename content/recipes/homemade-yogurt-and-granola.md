@@ -76,4 +76,4 @@ Break the granola into the desired size and store in airtight containers at room
 \
 Making your own granola and yogurt is super easy and frugal. The proportions of this recipe makes quite a bit of yogurt at a fraction of the price you'd purchase it for in the grocery store. Buy your favourite granola fix-ins in bulk and you'll have weeks worth of granola at a fraction of the cost of that stuff from the hipster bakery.
 
-good tips from <https://cookieandkate.com/healthy-granola-recipe/>
+Granola adapted from <https://cookieandkate.com/healthy-granola-recipe/> and yogurt adapted from <https://amindfullmom.com/instant-pot-yogurt/>. Check in on both for more pro tips!
