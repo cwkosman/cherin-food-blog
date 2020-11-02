@@ -48,3 +48,5 @@ Once dough has about doubled in size, place on baking tray and shape into desire
 Once oven is pre-heated, bake for 25 min. 
 
 Turn oven down to 350 F and bake for another 15-20 min.
+
+To make bread denser, try halving the amount of yeast and placing dough in smaller confined container (eg. banana bread tin)
