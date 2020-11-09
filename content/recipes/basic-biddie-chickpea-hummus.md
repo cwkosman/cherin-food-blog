@@ -4,7 +4,7 @@ description: Boil em, mash em, blend em with olive oil
 date: 2020-11-08T21:24:22.421Z
 tags:
   - snack
-featuredImage: /assets/cage.jpg
+featuredImage: /assets/hummus.jpg
 components:
   - component:
       componentTitle: Hummus
@@ -70,7 +70,9 @@ Cook dough on cast iron for about 30 seconds per side.
 
 Keep warm in 200°F oven until ready to serve, or store in fridge for up to a few days for later. 
 
-\---
+
+
+![three pitas on a plate](/assets/pita.jpg "quick pitas")
 
 For great tips on making your own hummus, check out [this article](https://www.inspiredtaste.net/15938/easy-and-smooth-hummus-recipe/).
 
