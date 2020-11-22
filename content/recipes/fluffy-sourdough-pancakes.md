@@ -11,7 +11,7 @@ components:
       componentIngredientObjects:
         - ingredientObject:
             ingredientMachineName: flour
-            ingredientDisplay: 1 cups flour
+            ingredientDisplay: 2 cups flour
         - ingredientObject:
             ingredientMachineName: sugar
             ingredientDisplay: 2 tablespoons sugar
