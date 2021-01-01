@@ -1,7 +1,7 @@
 ---
 title: Instant Pot "Butter Chicken"
 description: A vegan interpretation of a popular Indian curry
-date: 2020-12-26T03:08:00.527Z
+date: 2021-01-02T03:08:00.527Z
 tags:
   - dinner
 featuredImage: /assets/_dsc1026-2-.jpg
