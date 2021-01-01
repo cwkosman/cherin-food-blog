@@ -4,7 +4,7 @@ description: A vegan interpretation of a popular Indian curry
 date: 2020-12-26T03:08:00.527Z
 tags:
   - dinner
-featuredImage: /assets/cage.jpg
+featuredImage: /assets/_dsc1026-2-.jpg
 components:
   - component:
       componentTitle: Butter Chicken
@@ -79,7 +79,9 @@ Serve topped with fresh herbs, with rice or naan.
 
 Thanks ElaVegan for [the recipe](https://elavegan.com/vegan-butter-chicken-instant-pot/)!
 
-\---
+
+
+![Rice topped with "butter chicken", tomatoes, and a side of flatbread](/assets/_dsc1026-2-.jpg "\"Butter Chicken\" and tomatoes served on top of rice, with a side of flatbread")
 
 One of our favourite comfort food cuisines is Indian food: tender, spicy, and bone-warming. Butter chicken is among our typical dishes to order from local Indian restaurants, shout out to Tandoori Fusion and Raga Restaurant for many a meal.
 
