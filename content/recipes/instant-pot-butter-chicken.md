@@ -1,7 +1,7 @@
 ---
 title: Instant Pot "Butter Chicken"
 description: A vegan interpretation of a popular Indian curry
-date: 2021-01-02T03:08:00.527Z
+date: 2021-01-04T03:08:00.527Z
 tags:
   - dinner
 featuredImage: /assets/butter-tvp.jpg
@@ -20,7 +20,7 @@ components:
             ingredientDisplay: 5 cloves of garlic, minced
         - ingredientObject:
             ingredientMachineName: pepper
-            ingredientDisplay: 1 green pepper
+            ingredientDisplay: 1 green pepper, diced
         - ingredientObject:
             ingredientMachineName: curry powder
             ingredientDisplay: 1 Tbsp curry powder
@@ -50,7 +50,7 @@ components:
             ingredientDisplay: 1 tsp brown sugar
         - ingredientObject:
             ingredientMachineName: tomato sauce
-            ingredientDisplay: 3 cups tomato sauce (crushed tomatoes)
+            ingredientDisplay: 3 cups crushed tomatoes
         - ingredientObject:
             ingredientMachineName: broth
             ingredientDisplay: 2 1/2 cups vegetable broth
@@ -67,19 +67,15 @@ components:
             ingredientMachineName: coconut milk
             ingredientDisplay: "1 cup coconut milk "
 ---
-Add coconut oil to instant pot and set to 'saute'. Add minced fresh ginger, garlic, and bell pepper. Cook for about 2-3 minutes. 
+Add coconut oil to instant pot and set to 'saute'. Add minced fresh ginger, garlic, and bell pepper. Cook for about 2-3 minutes.
 
-Add spices (curry powder, garam masala, cumin, salt, ground ginger, onion powder, paprika, cayenne pepper), sugar, tomato sauce, broth, and textured vegetable protein. Close and seal instant pot. Cook on 'manual' for 10 minutes. 
+Add spices (curry powder, garam masala, cumin, salt, ground ginger, onion powder, paprika, cayenne pepper), sugar, tomato sauce, broth, and textured vegetable protein. Stir to combine. Close and seal instant pot. Cook on high pressure for 10 minutes.
 
-Once the time is up, use quick release to depressurize the instant pot. Carefully open the lid and add the balsamic vinegar and soy sauce. Add coconut milk and stir.
-
-Add more salt, pepper, sugar, or cayenne pepper to adjust the flavour. 
-
-Serve topped with fresh herbs, with rice or naan. 
+Once the time is up, use quick release to depressurize the instant pot. Carefully open the lid and add the balsamic vinegar and soy sauce. Add coconut milk and stir. Add more salt, pepper, sugar, or cayenne pepper to adjust the flavour if necessary. Serve topped with fresh herbs, with rice or naan. 
 
 Thanks ElaVegan for [the recipe](https://elavegan.com/vegan-butter-chicken-instant-pot/)!
 
-![Rice topped with "butter chicken", tomatoes, and a side of flatbread](/assets/butter-tvp.jpg "\\"Butter Chicken\\" and tomatoes served on top of rice, with a side of flatbread")
+![Rice topped with "butter chicken", tomatoes, and a side of flatbread](/assets/butter-tvp.jpg "\\\"Butter Chicken\\\" and tomatoes served on top of rice, with a side of flatbread")
 
 One of our favourite comfort food cuisines is Indian food: tender, spicy, and bone-warming. Butter chicken is among our typical dishes to order from local Indian restaurants, shout out to Tandoori Fusion and Raga Restaurant for many a meal.
 
