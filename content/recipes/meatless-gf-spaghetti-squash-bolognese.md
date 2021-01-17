@@ -1,6 +1,6 @@
 ---
 title: Meatless GF Spaghetti Squash Bolognese
-description: An alternative autumn dish
+description: An alternative take on a classic Italian pasta dish
 date: 2021-01-17T21:33:11.468Z
 tags:
   - dinner
