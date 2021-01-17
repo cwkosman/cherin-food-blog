@@ -10,7 +10,7 @@ components:
       componentTitle: Spaghetti Squash
       componentIngredientObjects:
         - ingredientObject:
-            ingredientMachineName: spaghetti squashe
+            ingredientMachineName: spaghetti squash
             ingredientDisplay: 1 spaghetti squash, halved lengthwise
         - ingredientObject:
             ingredientMachineName: olive oil
