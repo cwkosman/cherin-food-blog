@@ -4,7 +4,6 @@ const typography = new Typography({
   baseFontSize: "20px",
   baseLineHeight: 1.5,
   scale: 3,
-  googleFonts: [{ name: "Crimson Pro", styles: [400, 700] }],
   headerFontFamily: ["Crimson Pro", "Georgia", "serif"],
   bodyFontFamily: ["Crimson Pro", "Georgia", "serif"],
 })

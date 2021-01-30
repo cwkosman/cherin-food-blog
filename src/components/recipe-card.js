@@ -6,7 +6,7 @@ import { rhythm } from "../utils/typography"
 function RecipeCard({ node, showExcerpt }) {
   return (
     <article>
-      <Link style={{ boxShadow: `none` }} to={`recipes${node.fields.slug}`}>
+      <Link style={{ boxShadow: `none` }} to={`.${node.fields.slug}`}>
         <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
         <h3 style={{ margin: `${rhythm(0.5)} 0` }}>{node.frontmatter.title}</h3>
       </Link>
