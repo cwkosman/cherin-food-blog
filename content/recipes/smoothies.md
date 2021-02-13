@@ -1,5 +1,5 @@
 ---
-title: Smoothies
+title: Banana Peanut Butter Smoothie
 description: Wake up in the morning feeling like a smoothie
 date: 2021-02-13T18:13:34.889Z
 tags:
