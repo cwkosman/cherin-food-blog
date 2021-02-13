@@ -12,7 +12,7 @@ components:
       componentIngredientObjects:
         - ingredientObject:
             ingredientMachineName: milk
-            ingredientDisplay: 2 cups whole milk
+            ingredientDisplay: 8 cups whole milk
         - ingredientObject:
             ingredientMachineName: yogurt
             ingredientDisplay: 2 Tbsp plain yogurt
