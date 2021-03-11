@@ -33,13 +33,13 @@ components:
             ingredientDisplay: 2 tsp sunflower seeds
         - ingredientObject:
             ingredientMachineName: olive oil
-            ingredientDisplay: 1 tsp olive oil
+            ingredientDisplay: 1 Tbsp olive oil
         - ingredientObject:
             ingredientMachineName: balsamic vinegar
-            ingredientDisplay: 1 tsp balsamic vinegar
+            ingredientDisplay: 1 Tbsp balsamic vinegar
         - ingredientObject:
             ingredientMachineName: salt and pepper
-            ingredientDisplay: a pinch of salt and pepper to taste
+            ingredientDisplay: salt and pepper to taste
 ---
 Bring vegetable stock to a boil in a saucepan over high heat. Add barley and reduce to a simmer. Cover and cook until barley is soft and chewy and stock is absorbed (at least 25 minutes). 
 
