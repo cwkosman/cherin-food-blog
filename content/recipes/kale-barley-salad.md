@@ -1,7 +1,7 @@
 ---
 title: Barley & Kale Salad
-description: FOR ERIN TO WRITE
-date: 2021-03-11T01:57:00.555Z
+description: For when you barley have any time to cook
+date: 2021-03-19T00:57:00.555Z
 tags:
   - lunch
   - dinner
