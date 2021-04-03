@@ -5,7 +5,7 @@ date: 2021-04-03T19:56:37.950Z
 tags:
   - dinner
   - snack
-featuredImage: /assets/cage.jpg
+featuredImage: /assets/pierogi.jpg
 components:
   - component:
       componentTitle: Pierogi dough
@@ -107,7 +107,7 @@ Once pierogis start to float, cook for an additional 3-5 minutes and prepare a l
 
 Fry each dumpling for 3-5 minutes per side, or until slightly browned. 
 
-\---
+![a tray of pierogi ready for cooking](/assets/img_3744.jpg "Sammy's pierogi ready to be cooked")
 
 Every culture has their version of food stuffed into some form of dough. We sadistically enjoy spending hours wrapping filling in dough. One of our first home cooked meals together was making dumplings for Chuck's first Quon family dinner. 
 
