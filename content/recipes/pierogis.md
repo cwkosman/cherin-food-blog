@@ -97,13 +97,13 @@ Use a 3" diameter round cookie cutter, mug, or small bowl to cut circles from th
 
 Keep the dough scraps to roll out again and make more rounds. 
 
-Pierogis can be cooked right away or frozen and kept in the freezer for later.
+Pierogi can be cooked right away or frozen and kept in the freezer for later.
 
 ### Cooking
 
-Fill a large pot with water, lightly salted. Bring the water to a boil. Once water is boiling, add pierogis, about 5 at a time, to the water. 
+Fill a large pot with water, lightly salted. Bring the water to a boil. Once water is boiling, add pierogi, about 5 at a time, to the water. 
 
-Once pierogis start to float, cook for an additional 3-5 minutes and prepare a lightly oiled skillet for frying the pierogis. 
+Once they start to float, cook for an additional 3-5 minutes and prepare a lightly oiled skillet for frying them. 
 
 Fry each dumpling for 3-5 minutes per side, or until slightly browned. 
 
