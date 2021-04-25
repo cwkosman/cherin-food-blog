@@ -22,7 +22,7 @@ components:
             ingredientMachineName: water
             ingredientDisplay: 1/2 cup water
 ---
-Pre-heat oven to 200°F ?? (or is it 350?)
+Pre-heat oven to 350°F ?? (or is it 200?)
 
 Pit and coarsely chop dates. 
 
