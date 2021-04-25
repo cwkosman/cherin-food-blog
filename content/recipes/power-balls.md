@@ -14,13 +14,13 @@ components:
             ingredientDisplay: 1/2 cup chickpea flour
         - ingredientObject:
             ingredientMachineName: dates
-            ingredientDisplay: 1 cup pitted dates
+            ingredientDisplay: 1/2 cup pitted dates
         - ingredientObject:
             ingredientMachineName: coconut
-            ingredientDisplay: 3/4 cup shredded coconut
+            ingredientDisplay: 2 Tbsp shredded unsweetened coconut
         - ingredientObject:
             ingredientMachineName: water
-            ingredientDisplay: 1/2 cup water
+            ingredientDisplay: 1/4 cup water
 ---
 Pre-heat oven to 350°F ?? (or is it 200?)
 
