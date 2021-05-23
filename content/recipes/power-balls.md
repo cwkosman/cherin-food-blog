@@ -11,10 +11,10 @@ components:
       componentIngredientObjects:
         - ingredientObject:
             ingredientMachineName: chickpea flour
-            ingredientDisplay: 1/2 cup chickpea flour
+            ingredientDisplay: 1 cup chickpea flour
         - ingredientObject:
             ingredientMachineName: dates
-            ingredientDisplay: 1/2 cup pitted dates
+            ingredientDisplay: 1 cup pitted dates
         - ingredientObject:
             ingredientMachineName: coconut
             ingredientDisplay: 2 Tbsp shredded unsweetened coconut
@@ -22,17 +22,11 @@ components:
             ingredientMachineName: water
             ingredientDisplay: 1/4 cup water
 ---
-Pre-heat oven to 350°F ?? (or is it 200?)
+Pre-heat oven to 350°F.
 
-Pit and coarsely chop dates. 
+Coarsely chop the dates. Combine chopped dates, chickpea flour, and water in food processor. Pulse until ingredients are incorporated but not smooth. Mixture should resemble slightly stiff cookie dough. 
 
-Combine dates, chickpea flour, and water in food processor. Pulse until ingredients are incorporated but not smooth. Mixture should resemble slightly stiff cookie dough. 
-
-Line a baking sheet with parchment paper. 
-
-Roll ping pong sized balls, coat them by rolling in shredded coconut and place on baking sheet. 
-
-Cook for about 10 minutes, until tops are golden brown. 
+Line a baking sheet with parchment paper. Roll ping pong sized balls, coat them by rolling in shredded coconut and place on baking sheet. Cook for about 10 minutes, until tops are golden brown. 
 
 Store at room temperature for up to a week.
 
@@ -40,8 +34,6 @@ Store at room temperature for up to a week.
 
 How often do you go to MEC or your local corner store before a camping trip or hike to pick up some assortment of 'power' bars? Ever try making your own? 
 
-We experimented with our own power ball recipe when looking for snacks free of gluten, nuts, seeds, peanuts, and added sugar. 
+We experimented with our own power ball recipe when looking for snacks free of gluten, nuts, seeds, and added sugar. You can add any of these to the food processor to your liking. Protein powder also makes a good add in for even more flavour and nutrition.
 
-They can be eaten as a grab-n-go breakfast, a midday snack, or even as a dessert treat.  
-
-You might also try adding nuts, oats, peanut butter, or protein powder for even more power.
+They can be eaten as a grab-n-go breakfast, a midday snack, or even as a dessert treat!
