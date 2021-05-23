@@ -1,7 +1,7 @@
 ---
 title: Power Balls
-description: Bite sized energy packed snacks
-date: 2021-04-25T03:23:11.958Z
+description: Bite sized, energy packed snacks
+date: 2021-05-24T03:23:11.958Z
 tags:
   - snacks
 featuredImage: /assets/tasty-balls.jpg
