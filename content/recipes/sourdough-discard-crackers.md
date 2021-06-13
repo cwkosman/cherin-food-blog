@@ -33,3 +33,9 @@ Line baking sheet with parchment paper, and spread mixture thinly and evenly ont
 Bake for 10 minutes. Remove from oven and score crackers, which will allow easily breaking them into individual pieces after baking. 
 
 Bake for an additional 25 - 45 minutes, or until crackers are slightly browned on top and hardened. Be careful not to over bake.
+
+\---
+
+This one is great if you just don't know what to do with your sourdough for a few weeks and don't want to generate food waste. Plus, you can pretty much put anything on crackers for a quick and tasty snack.
+
+You can also use butter instead of coconut oil.
