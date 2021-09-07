@@ -4,7 +4,7 @@ description: A refreshing summery alternative to traditional Caprese
 date: 2021-09-06T19:30:57.019Z
 tags:
   - snack
-featuredImage: /assets/cage.jpg
+featuredImage: /assets/20210815_185629.jpg
 components:
   - component:
       componentTitle: Default
@@ -27,6 +27,6 @@ components:
 ---
 Arrange alternating slices of mozzarella cheese and watermelon on a serving plate. Drizzle olive oil over the cheese and melon. Sprinkle the ribbons of basil across and season with salt and pepper to taste. Serve while still cool.
 
-\[[IMAGE GOES HERE]]
+\--
 
-Perhaps nothing says summer like the first bites into a slice of juicy watermelon. In this take on a Caprese salad, a the softness of mozzarella cheese is an excellent compliment to the sweetness and crunchiness of the melon standing in for tomatoes. Fragrant basil adds even more summer to the mix, though virtually any fresh herb can stand in. We recommend serving this as an appetizer prior to well-seasoned grilled meats, fish, or vegetables.
+Perhaps nothing says summer like the first bites into a slice of juicy watermelon. In this take on a Caprese salad, a the softness of mozzarella cheese is an excellent compliment to the sweetness and crunchiness of the melon standing in for tomatoes. Fragrant basil adds even more summer to the mix, though virtually any fresh herb can stand in. Mint also works great for an added freshness. We recommend serving this as an appetizer prior to well-seasoned grilled meats, fish, or vegetables.
