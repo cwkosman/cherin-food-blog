@@ -5,7 +5,7 @@ date: 2021-08-28T20:27:54.036Z
 tags:
   - snack
   - dinner
-featuredImage: /assets/cage.jpg
+featuredImage: /assets/20210826_211515.jpg
 components:
   - component:
       componentTitle: Fried Chicken
@@ -76,6 +76,6 @@ Spread mayonnaise and hot sauce on wraps, top with greens mix and fried chicken.
 
 Roll up, and serve. 
 
-\---
+![fried chicken, lettuce, and sauce in a flour tortilla wrap](/assets/20210826_211515.jpg "Fried chicken snack wrap")
 
 In first year of university, Erin lived on residence, and spent many-a meal plan flex-dollars at "The Lazy Scholar" - the snack bar in the basement of the Victoria Hall residence building. One of the all-time favourites were the chicken snack wraps. Chicken strips inside a wrap with mayo, hot sauce, and lettuce. These snack wraps are an ode to those freshman days, irregular mealtimes squeezed between classes and sports practice, and late night eats after a kegger or two.
