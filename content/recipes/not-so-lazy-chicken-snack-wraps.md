@@ -1,7 +1,7 @@
 ---
-title: Not so lazy chicken snack wraps
+title: Lazy Snack Wraps
 description: Crispy fried chicken snack wraps
-date: 2021-08-28T20:27:54.036Z
+date: 2021-10-03T20:27:54.036Z
 tags:
   - snack
   - dinner
@@ -58,24 +58,26 @@ components:
 ---
 **Preparing Chicken**
 
-Heat oil in cast iron skillet over medium heat
+Cut chicken breasts into strips. 
 
-Slice chicken breasts ... 
+Preheat oil in cast iron skillet over medium heat.
 
-Mix egg and soy milk in a bowl.
+Whisk egg and soy milk together in one bowl. In a separate bowl, mix flour (2 Tbsp), nutritional yeast (2 Tbsp), salt (1/4 tsp), pepper (1/4 tsp), and paprika (1/4 tsp). 
 
-In a separate bowl, mix flour (2 Tbsp), nutritional yeast (2 Tbsp), salt (1/4 tsp), pepper (1/4 tsp), and paprika (1/4 tsp).
+Set up your workstation to have the wet and dry ingredients near each other as well a plate to hold the uncooked chicken. Set up a drying rack or paper towels to place your fried chicken strips onto once they are cooked. 
 
-Dip chicken slices in egg-milk mix, letting mixture drip off, then coat in flour mixture. Place xx into skillet. 
+Dip chicken slices in egg-milk mix, lightly coated. Then coat chicken in flour mixture. Once skillet is at temperature (water sizzles when dripped on to the skillet), place chicken on to the skillet. Ensure the pieces of chicken aren't too crowded on the pan to maximize the surface area being fried. 
 
-Fry chicken until lightly browned on one side, flip and fry til cooked all the way through (breading should be lightly browned on both sides). 
+Fry chicken until lightly browned on one side, flip and fry until cooked all the way through (breading should be lightly browned on both sides). 
+
+Pat excess oil dry and let sit on a drying rack or paper towel. 
 
 **Preparing Wraps**
 
 Spread mayonnaise and hot sauce on wraps, top with greens mix and fried chicken. 
 
-Roll up, and serve. 
+Roll up, and serve.
 
 ![fried chicken, lettuce, and sauce in a flour tortilla wrap](/assets/20210826_211515.jpg "Fried chicken snack wrap")
 
-In first year of university, Erin lived on residence, and spent many-a meal plan flex-dollars at "The Lazy Scholar" - the snack bar in the basement of the Victoria Hall residence building. One of the all-time favourites were the chicken snack wraps. Chicken strips inside a wrap with mayo, hot sauce, and lettuce. These snack wraps are an ode to those freshman days, irregular mealtimes squeezed between classes and sports practice, and late night eats after a kegger or two.
+In first year of university, Erin lived in residence, and spent many-a meal plan flex-dollars at "The Lazy Scholar" - the snack bar in the basement of the Victoria Hall residence building. One of the all-time favourites were the chicken snack wraps. Chicken strips inside a wrap with mayo, hot sauce, and lettuce. These snack wraps are an ode to those freshman days, irregular mealtimes squeezed between classes and sports practice, and late night eats after a kegger or two.
