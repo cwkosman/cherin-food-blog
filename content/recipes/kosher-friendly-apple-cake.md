@@ -1,6 +1,7 @@
 ---
-title: Kosher-friendly Apple Cake
-description: "A tasty dessert that's friendly for your kosher and dairy intolerant friends "
+title: Pauline's Apple Cake
+description: We bring you this dietary restriction friendly dessert from the
+  annals of Jewish baking
 date: 2021-11-16T07:12:09.032Z
 tags:
   - dessert
